@@ -1,0 +1,913 @@
+"","Order_ID","Distance_km","Weather","Traffic_Level","Time_of_Day","Vehicle_Type","Preparation_Time_min","Courier_Experience_yrs","Delivery_Time_min","Total_time","late_order","Speed"
+"1",522,7.93,"Windy","Low","Afternoon","Scooter",12,1,43,55,"Not late",11.0651162790698
+"2",738,16.42,"Clear","Medium","Evening","Bike",20,2,84,104,"Late",11.7285714285714
+"3",741,9.52,"Foggy","Low","Night","Scooter",28,1,59,87,"Late",9.68135593220339
+"4",661,7.44,"Rainy","Medium","Afternoon","Scooter",5,1,37,42,"Not late",12.0648648648649
+"5",412,19.03,"Clear","Low","Morning","Bike",16,5,68,84,"Late",16.7911764705882
+"6",679,19.4,"Clear","Low","Evening","Scooter",8,9,57,65,"Late",20.4210526315789
+"8",514,17.39,"Clear","Medium","Evening","Scooter",5,6,46,51,"Not late",22.6826086956522
+"9",860,1.78,"Snowy","Low","Evening","Car",20,6,35,55,"Not late",3.05142857142857
+"10",137,10.62,"Foggy","Low","Evening","Scooter",29,1,73,102,"Late",8.72876712328767
+"11",812,16.86,"Snowy","Medium","Afternoon","Car",13,4,88,101,"Late",11.4954545454545
+"12",77,15.54,"Clear","Low","Night","Bike",29,1,76,105,"Late",12.2684210526316
+"13",637,10.89,"Clear","High","Night","Bike",12,5,53,65,"Not late",12.3283018867925
+"14",974,4.69,"Rainy","Medium","Evening","Scooter",12,7,36,48,"Not late",7.81666666666667
+"15",939,2.8,"Clear","High","Morning","Scooter",10,4.57938144329897,33,43,"Not late",5.09090909090909
+"16",900,2.17,"Snowy","Low","Evening","Car",15,3,35,50,"Not late",3.72
+"17",281,17.86,"Rainy","Low","Afternoon","Bike",5,1,50,55,"Not late",21.432
+"18",884,2.53,"Snowy","Low","Morning","Bike",6,8,24,30,"Not late",6.325
+"19",762,6.58,"Foggy","Low","Evening","Car",6,7,27,33,"Not late",14.6222222222222
+"20",320,5.38,"Clear","Medium","Evening","Scooter",26,1,47,73,"Not late",6.86808510638298
+"21",550,15.56,"Rainy","Low","Afternoon","Scooter",28,0,72,100,"Late",12.9666666666667
+"22",175,13.08,"Rainy","Low","Morning","Car",16,4,58,74,"Late",13.5310344827586
+"23",372,0.86,"Clear","High","Afternoon","Bike",26,5,37,63,"Not late",1.39459459459459
+"24",528,5.83,"Clear","High","Evening","Car",27,9,56,83,"Not late",6.24642857142857
+"25",211,11.2,"Clear","Medium","Morning","Bike",23,4.57938144329897,73,96,"Late",9.20547945205479
+"26",236,14.59,"Clear","Medium","Morning","Bike",15,6,64,79,"Late",13.678125
+"27",102,12.91,"Windy","Medium","Evening","Bike",11,6,56,67,"Not late",13.8321428571429
+"28",987,13.92,"Snowy","Low","Morning","Scooter",18,4,70,88,"Late",11.9314285714286
+"29",903,4.04,"Snowy","Low","Night","Bike",11,9,70,81,"Late",3.46285714285714
+"30",948,18.05,"Clear","Medium","Evening","Scooter",10,7,123,133,"Late",8.80487804878049
+"31",347,12.88,"Clear","Medium","Morning","Scooter",8,5,52,60,"Not late",14.8615384615385
+"32",140,19.45,"Rainy","High","Morning","Scooter",20,6,108,128,"Late",10.8055555555556
+"33",622,4.58,"Clear","High","Morning","Scooter",22,9,45,67,"Not late",6.10666666666667
+"34",500,19.73,"Foggy","Medium","Evening","Bike",27,4,111,138,"Late",10.6648648648649
+"35",371,2.47,"Windy","Medium","Morning","Bike",27,2,44,71,"Not late",3.36818181818182
+"36",199,17.8,"Snowy","Medium","Morning","Bike",16,9,73,89,"Late",14.6301369863014
+"37",688,5.96,"Clear","Medium","Afternoon","Bike",22,7,45,67,"Not late",7.94666666666667
+"38",585,12.85,"Windy","Medium","Afternoon","Scooter",18,7,61,79,"Late",12.6393442622951
+"39",902,1.02,"Clear","Medium","Afternoon","Bike",25,4,34,59,"Not late",1.8
+"40",60,6.84,"Rainy","Medium","Night","Car",14,8,47,61,"Not late",8.73191489361702
+"41",329,8.68,"Rainy","Medium","Morning","Bike",8,5,52,60,"Not late",10.0153846153846
+"42",97,10.69,"Clear","Medium","Night","Bike",25,9,67,92,"Late",9.57313432835821
+"44",975,1.11,"Clear","Low","Morning","Bike",5,6,8,13,"Not late",8.325
+"45",300,2.16,"Snowy","Low","Evening","Scooter",15,0,36,51,"Not late",3.6
+"46",278,13.17,"Windy","Medium","Afternoon","Bike",16,4,67,83,"Late",11.7940298507463
+"47",925,8.79,"Snowy","Low","Night","Bike",14,6,43,57,"Not late",12.2651162790698
+"48",602,5.93,"Clear","Low","Afternoon","Scooter",19,3,36,55,"Not late",9.88333333333333
+"49",440,2.09,"Rainy","Low","Night","Bike",23,2,36,59,"Not late",3.48333333333333
+"50",838,7.57,"Clear","Low","Morning","Bike",21,0,56,77,"Not late",8.11071428571429
+"51",571,10.52,"Rainy","Medium","Afternoon","Scooter",8,4,56,64,"Not late",11.2714285714286
+"52",880,4.83,"Rainy","Low","Morning","Car",25,9,47,72,"Not late",6.16595744680851
+"53",262,19.81,"Snowy","Medium","Afternoon","Car",20,5,104,124,"Late",11.4288461538462
+"54",579,10.1,"Rainy","Low","Evening","Car",8,4,50,58,"Not late",12.12
+"55",24,7.64,"Windy","Low","Afternoon","Car",10,8,31,41,"Not late",14.7870967741935
+"56",31,12.35,"Clear","Low","Morning","Scooter",10,6,35,45,"Not late",21.1714285714286
+"57",618,5.9,"Rainy","Low","Evening","Car",26,9,44,70,"Not late",8.04545454545455
+"58",11,0.9,"Clear","Low","Afternoon","Bike",20,8,23,43,"Not late",2.34782608695652
+"59",222,11.58,"Clear","Medium","Morning","Scooter",16,2,61,77,"Late",11.3901639344262
+"60",821,16.16,"Clear","High","Afternoon","Bike",11,1,82,93,"Late",11.8243902439024
+"61",297,15.51,"Clear","Low","Evening","Bike",17,9,69,86,"Late",13.4869565217391
+"62",55,12.16,"Windy","High","Evening","Scooter",11,0,69,80,"Late",10.5739130434783
+"63",543,4.96,"Rainy","High","Morning","Bike",21,0,60,81,"Late",4.96
+"64",210,3.64,"Windy","High","Evening","Bike",17,6,40,57,"Not late",5.46
+"65",605,2.85,"Clear","Low","Morning","Scooter",26,0,38,64,"Not late",4.5
+"66",693,10.4,"Clear","Low","Evening","Bike",16,4,52,68,"Not late",12
+"67",663,12.31,"Windy","Low","Morning","Bike",29,4,68,97,"Late",10.8617647058824
+"68",867,3.53,"Clear","Medium","Afternoon","Bike",13,7,31,44,"Not late",6.83225806451613
+"69",71,15.56,"Clear","Medium","Evening","Bike",14,3,54,68,"Not late",17.2888888888889
+"70",544,13.6,"Clear","Medium","Afternoon","Bike",27,0,87,114,"Late",9.37931034482759
+"71",108,15.23,"Snowy","High","Morning","Bike",5,0,62,67,"Late",14.7387096774194
+"73",591,3.21,"Rainy","High","Night","Scooter",16,0,42,58,"Not late",4.58571428571429
+"74",742,6.38,"Snowy","Low","Evening","Bike",16,1,111,127,"Late",3.44864864864865
+"75",293,16.54,"Rainy","Low","Afternoon","Scooter",6,7,51,57,"Not late",19.4588235294118
+"76",290,12.02,"Clear","Low","Morning","Car",9,7,41,50,"Not late",17.590243902439
+"77",653,11.94,"Clear","Low","Evening","Bike",20,3,69,89,"Late",10.3826086956522
+"78",40,9.08,"Clear","Low","Afternoon","Scooter",14,5,49,63,"Not late",11.1183673469388
+"79",590,3.46,"Snowy","Medium","Morning","Scooter",23,3,48,71,"Not late",4.325
+"80",308,6.8,"Foggy","Medium","Morning","Scooter",13,7,46,59,"Not late",8.8695652173913
+"81",680,17.38,"Rainy","Medium","Afternoon","Scooter",11,2,92,103,"Late",11.3347826086957
+"82",67,3.25,"Clear","Low","Morning","Bike",23,7,32,55,"Not late",6.09375
+"83",276,10.28,"Clear","Medium","Evening","Scooter",29,3,71,100,"Late",8.68732394366197
+"84",68,16.14,"Clear","Low","Night","Car",6,9,65,71,"Late",14.8984615384615
+"85",319,3.55,"Clear","Medium","Evening","Bike",23,0,43,66,"Not late",4.95348837209302
+"87",999,19.03,"Clear","Low","Afternoon","Car",26,5,68,94,"Late",16.7911764705882
+"88",715,7.3,"Clear","Low","Night","Scooter",14,7,28,42,"Not late",15.6428571428571
+"89",754,7.03,"Clear","Low","Evening","Scooter",21,1,44,65,"Not late",9.58636363636364
+"90",328,12.43,"Snowy","Low","Afternoon","Car",12,0,70,82,"Late",10.6542857142857
+"91",383,12.76,"Windy","High","Morning","Scooter",27,4.57938144329897,74,101,"Late",10.3459459459459
+"92",452,11.39,"Rainy","High","Evening","Scooter",14,1,72,86,"Late",9.49166666666667
+"93",523,19.41,"Clear","Low","Morning","Car",7,3,48,55,"Not late",24.2625
+"94",219,13.17,"Rainy","High","Evening","Scooter",17,8,69,86,"Late",11.4521739130435
+"95",788,8.32,"Rainy","Low","Afternoon","Car",12,2,49,61,"Not late",10.1877551020408
+"97",765,1.15,"Clear","Low","Afternoon","Scooter",26,4,30,56,"Not late",2.3
+"98",89,17.8,"Windy","High","Afternoon","Car",12,9,73,85,"Late",14.6301369863014
+"99",64,7.46,"Clear","Medium","Evening","Bike",8,5,42,50,"Not late",10.6571428571429
+"100",827,7.25,"Clear","Medium","Afternoon","Scooter",18,4,45,63,"Not late",9.66666666666667
+"101",717,16.7,"Clear","Medium","Afternoon","Scooter",28,1,76,104,"Late",13.1842105263158
+"102",352,17.2,"Rainy","High","Afternoon","Scooter",14,2,94,108,"Late",10.9787234042553
+"103",937,0.86,"Clear","Medium","Afternoon","Car",21,7,28,49,"Not late",1.84285714285714
+"104",257,18.76,"Clear","Medium","Evening","Car",15,2,80,95,"Late",14.07
+"105",636,9.22,"Clear","Medium","Afternoon","Car",18,9,57,75,"Late",9.70526315789474
+"106",645,2.84,"Clear","Low","Evening","Scooter",24,2,35,59,"Not late",4.86857142857143
+"107",555,17.59,"Clear","Low","Morning","Bike",24,6,69,93,"Late",15.295652173913
+"108",960,14.89,"Snowy","High","Morning","Scooter",17,6,87,104,"Late",10.2689655172414
+"109",169,1.3,"Clear","Medium","Evening","Bike",22,4,31,53,"Not late",2.51612903225806
+"110",918,18.99,"Rainy","High","Afternoon","Bike",10,6,70,80,"Late",16.2771428571429
+"111",529,1.6,"Foggy","Low","Night","Scooter",24,4.57938144329897,37,61,"Not late",2.59459459459459
+"112",824,8.26,"Snowy","Low","Afternoon","Bike",15,1,57,72,"Late",8.69473684210526
+"113",986,10.16,"Clear","High","Night","Bike",12,5,52,64,"Not late",11.7230769230769
+"115",87,14.73,"Rainy","Low","Afternoon","Bike",24,6,74,98,"Late",11.9432432432432
+"116",433,12.56,"Clear","High","Evening","Bike",17,5,69,86,"Late",10.9217391304348
+"117",185,5.53,"Clear","Medium","Afternoon","Bike",19,1,44,63,"Not late",7.54090909090909
+"118",979,10.18,"Foggy","Medium","Morning","Bike",25,3,73,98,"Late",8.36712328767123
+"119",535,15.5,"Clear","Medium","Morning","Scooter",28,9,91,119,"Late",10.2197802197802
+"121",893,16.69,"Foggy","Medium","Evening","Scooter",8,2,65,73,"Late",15.4061538461538
+"122",426,11.22,"Windy","High","Evening","Bike",25,5,79,104,"Late",8.52151898734177
+"123",714,8.53,"Clear","Low","Evening","Scooter",8,2,41,49,"Not late",12.4829268292683
+"124",261,12.49,"Clear","Medium","Morning","Bike",25,4,77,102,"Late",9.73246753246753
+"125",238,0.97,"Clear","Low","Night","Scooter",24,8,26,50,"Not late",2.23846153846154
+"126",560,12.6,"Windy","Medium","Afternoon","Car",8,6,58,66,"Late",13.0344827586207
+"127",584,6.91,"Clear","Medium","Evening","Scooter",28,9,56,84,"Not late",7.40357142857143
+"128",446,18.97,"Clear","Low","Evening","Car",25,4,141,166,"Late",8.07234042553191
+"129",868,4.05,"Clear","Medium","Evening","Bike",20,4.57938144329897,44,64,"Not late",5.52272727272727
+"130",801,14.29,"Windy","Medium","Morning","Bike",14,7,78,92,"Late",10.9923076923077
+"131",600,1.3,"Foggy","Low","Evening","Bike",19,5,29,48,"Not late",2.68965517241379
+"132",850,12.11,"Rainy","Low","Morning","Bike",9,5,59,68,"Late",12.3152542372881
+"133",266,14.94,"Clear","Medium","Morning","Bike",11,0,62,73,"Late",14.458064516129
+"134",996,2.29,"Rainy","High","Afternoon","Car",8,8,80,88,"Late",1.7175
+"135",530,17.36,"Rainy","High","Afternoon","Bike",24,1,105,129,"Late",9.92
+"136",56,18.48,"Clear","Medium","Night","Bike",8,0,82,90,"Late",13.5219512195122
+"137",121,16.25,"Foggy","High","Morning","Bike",10,5,91,101,"Late",10.7142857142857
+"138",216,5.13,"Clear","Low","Morning","Car",15,4,30,45,"Not late",10.26
+"140",73,0.61,"Clear","Low","Afternoon","Scooter",10,0,16,26,"Not late",2.2875
+"141",45,5.55,"Foggy","High","Evening","Bike",18,1,116,134,"Late",2.87068965517241
+"143",722,4.03,"Clear","Medium","Evening","Bike",9,5,25,34,"Not late",9.672
+"144",282,7.09,"Snowy","Low","Morning","Scooter",13,8,37,50,"Not late",11.4972972972973
+"145",894,8.25,"Clear","Medium","Afternoon","Bike",7,9,28,35,"Not late",17.6785714285714
+"146",915,11.26,"Clear","Low","Night","Bike",5,6,49,54,"Not late",13.7877551020408
+"147",811,19.7,"Rainy","Low","Evening","Bike",10,2,60,70,"Late",19.7
+"148",245,0.8,"Snowy","High","Evening","Bike",14,9,36,50,"Not late",1.33333333333333
+"149",823,7,"Rainy","Medium","Evening","Bike",17,9,49,66,"Not late",8.57142857142857
+"150",322,14.43,"Clear","Medium","Morning","Car",14,4,113,127,"Late",7.66194690265487
+"151",644,6.89,"Rainy","Medium","Afternoon","Bike",11,6,43,54,"Not late",9.61395348837209
+"152",159,5.13,"Foggy","Medium","Evening","Car",25,1,60,85,"Late",5.13
+"153",978,1.5,"Clear","Low","Afternoon","Bike",10,1,17,27,"Not late",5.29411764705882
+"155",942,11.31,"Clear","Medium","Evening","Bike",7,0,54,61,"Not late",12.5666666666667
+"156",463,15.05,"Clear","Medium","Evening","Car",12,2,66,78,"Late",13.6818181818182
+"157",310,5.78,"Foggy","Low","Afternoon","Scooter",9,9,33,42,"Not late",10.5090909090909
+"158",698,11.83,"Clear","Low","Evening","Scooter",9,7,32,41,"Not late",22.18125
+"159",61,8.08,"Foggy","Low","Morning","Bike",25,2,61,86,"Late",7.94754098360656
+"160",885,16.1,"Clear","Low","Evening","Bike",25,0,64,89,"Late",15.09375
+"161",596,9.74,"Rainy","Medium","Evening","Scooter",7,8,37,44,"Not late",15.7945945945946
+"162",768,17.6,"Clear","Low","Afternoon","Bike",27,3,69,96,"Late",15.304347826087
+"163",650,10.22,"Snowy","Medium","Night","Bike",18,1,68,86,"Late",9.01764705882353
+"164",651,2.19,"Clear","Low","Evening","Bike",26,3,32,58,"Not late",4.10625
+"165",866,11.41,"Windy","Medium","Afternoon","Scooter",17,4,68,85,"Late",10.0676470588235
+"166",669,4.14,"Clear","Medium","Morning","Scooter",14,2,30,44,"Not late",8.28
+"167",299,12.65,"Rainy","Low","Afternoon","Bike",18,8,60,78,"Late",12.65
+"170",311,9.06,"Clear","Medium","Evening","Bike",23,4,47,70,"Not late",11.5659574468085
+"171",362,13.04,"Clear","Medium","Morning","Scooter",20,6,65,85,"Late",12.0369230769231
+"172",480,10.7,"Clear","Medium","Afternoon","Scooter",8,5,44,52,"Not late",14.5909090909091
+"173",111,6.15,"Foggy","Low","Evening","Scooter",26,5,48,74,"Not late",7.6875
+"174",990,16.47,"Snowy","High","Evening","Scooter",20,9,75,95,"Late",13.176
+"175",487,1.39,"Clear","Medium","Afternoon","Bike",15,4,24,39,"Not late",3.475
+"176",364,11.14,"Rainy","Medium","Morning","Scooter",7,3,47,54,"Not late",14.2212765957447
+"177",255,3.81,"Rainy","High","Afternoon","Bike",5,6,31,36,"Not late",7.3741935483871
+"178",260,2.39,"Rainy","Medium","Evening","Bike",27,7,43,70,"Not late",3.33488372093023
+"179",803,11.74,"Clear","High","Evening","Car",6,3,54,60,"Not late",13.0444444444444
+"181",495,9.54,"Rainy","Medium","Evening","Scooter",11,5,47,58,"Not late",12.1787234042553
+"182",671,3.88,"Clear","Medium","Morning","Bike",16,2,35,51,"Not late",6.65142857142857
+"183",378,0.95,"Rainy","Medium","Morning","Car",27,0,44,71,"Not late",1.29545454545455
+"184",527,8.59,"Clear","Low","Night","Scooter",17,8,36,53,"Not late",14.3166666666667
+"185",846,8.59,"Clear","Low","Evening","Bike",22,2,43,65,"Not late",11.9860465116279
+"186",138,14.21,"Clear","Medium","Evening","Bike",24,4.57938144329897,58,82,"Late",14.7
+"187",356,13.03,"Foggy","Low","Morning","Scooter",9,1,50,59,"Not late",15.636
+"188",366,8.03,"Clear","Low","Evening","Scooter",14,8,42,56,"Not late",11.4714285714286
+"189",943,13.2,"Snowy","Low","Morning","Car",14,3,62,76,"Late",12.7741935483871
+"190",750,12.67,"Clear","Medium","Evening","Car",10,3,65,75,"Late",11.6953846153846
+"192",830,9.32,"Clear","Low","Morning","Scooter",6,5,30,36,"Not late",18.64
+"193",657,6.03,"Rainy","High","Afternoon","Car",8,6,46,54,"Not late",7.86521739130435
+"194",200,15.71,"Clear","Low","Afternoon","Scooter",28,5,69,97,"Late",13.6608695652174
+"195",214,4.87,"Snowy","High","Evening","Bike",16,7,54,70,"Not late",5.41111111111111
+"196",409,18.15,"Rainy","High","Morning","Bike",22,7,108,130,"Late",10.0833333333333
+"197",333,0.78,"Clear","Medium","Morning","Bike",6,1,17,23,"Not late",2.75294117647059
+"198",209,0.6,"Clear","Low","Afternoon","Bike",26,3,30,56,"Not late",1.2
+"199",614,2.09,"Clear","Medium","Evening","Bike",5,5,16,21,"Not late",7.8375
+"201",30,1.41,"Foggy","Medium","Evening","Bike",15,0,72,87,"Late",1.175
+"202",536,18.92,"Clear","High","Morning","Scooter",27,4,100,127,"Late",11.352
+"203",696,12.41,"Clear","Medium","Morning","Car",10,1,51,61,"Not late",14.6
+"205",837,18.34,"Clear","High","Night","Bike",9,4,92,101,"Late",11.9608695652174
+"206",597,13.52,"Clear","Low","Morning","Scooter",27,1,82,109,"Late",9.89268292682927
+"207",166,16.79,"Foggy","High","Afternoon","Bike",24,6,85,109,"Late",11.8517647058824
+"208",919,15.39,"Clear","Medium","Evening","Scooter",24,5,89,113,"Late",10.3752808988764
+"209",496,7.39,"Rainy","Medium","Morning","Scooter",25,6,60,85,"Late",7.39
+"210",825,10.98,"Rainy","Low","Morning","Scooter",10,6,55,65,"Not late",11.9781818181818
+"211",66,11.08,"Snowy","Medium","Morning","Bike",9,0,57,66,"Late",11.6631578947368
+"212",142,5.41,"Clear","Medium","Night","Bike",14,5,36,50,"Not late",9.01666666666667
+"213",926,0.94,"Clear","High","Morning","Bike",9,6,21,30,"Not late",2.68571428571429
+"214",828,7.27,"Windy","Low","Afternoon","Bike",10,5,35,45,"Not late",12.4628571428571
+"215",656,2.99,"Windy","Medium","Morning","Bike",27,5,41,68,"Not late",4.37560975609756
+"216",332,15.28,"Snowy","Low","Evening","Bike",16,5,72,88,"Late",12.7333333333333
+"217",665,2.48,"Windy","Medium","Afternoon","Car",14,6,27,41,"Not late",5.51111111111111
+"218",250,17.13,"Rainy","Low","Evening","Car",19,1,71,90,"Late",14.4760563380282
+"219",908,7.17,"Clear","Low","Afternoon","Bike",15,7,32,47,"Not late",13.44375
+"220",709,5.47,"Rainy","Low","Morning","Car",21,6,38,59,"Not late",8.63684210526316
+"221",306,19.53,"Foggy","Low","Afternoon","Bike",11,6,87,98,"Late",13.4689655172414
+"222",735,7.5,"Clear","High","Morning","Bike",29,1,66,95,"Late",6.81818181818182
+"223",976,5.61,"Windy","Low","Night","Bike",25,9,48,73,"Not late",7.0125
+"224",50,4.1,"Clear","Low","Morning","Bike",21,3,37,58,"Not late",6.64864864864865
+"225",897,6.22,"Rainy","Medium","Morning","Bike",15,0,49,64,"Not late",7.61632653061224
+"227",545,12.55,"Windy","Low","Evening","Bike",13,8,51,64,"Not late",14.7647058823529
+"228",351,10.31,"Foggy","Medium","Morning","Scooter",19,5,62,81,"Late",9.97741935483871
+"229",905,8.72,"Snowy","Medium","Evening","Car",18,7,64,82,"Late",8.175
+"230",537,17.07,"Clear","Medium","Morning","Bike",20,6,73,93,"Late",14.0301369863014
+"232",995,7.54,"Snowy","Low","Afternoon","Bike",20,4.57938144329897,55,75,"Not late",8.22545454545455
+"233",482,14.07,"Clear","High","Afternoon","Bike",5,8,67,72,"Late",12.6
+"234",576,19.02,"Clear","Medium","Afternoon","Bike",29,9,87,116,"Late",13.1172413793103
+"235",34,19,"Clear","High","Morning","Car",28,3,96,124,"Late",11.875
+"236",32,3.83,"Rainy","Medium","Afternoon","Bike",12,9,30,42,"Not late",7.66
+"237",232,10.3,"Clear","Low","Evening","Scooter",19,8,48,67,"Not late",12.875
+"238",964,8.09,"Clear","High","Afternoon","Scooter",15,4,51,66,"Not late",9.51764705882353
+"239",193,18.06,"Clear","Medium","Night","Bike",9,8,52,61,"Not late",20.8384615384615
+"240",334,2.76,"Windy","Medium","Morning","Scooter",8,5,22,30,"Not late",7.52727272727273
+"241",4,12.17,"Snowy","Low","Evening","Bike",20,8,68,88,"Late",10.7382352941176
+"242",205,12.33,"Clear","Medium","Evening","Bike",22,9,75,97,"Late",9.864
+"243",515,1.38,"Clear","Medium","Evening","Scooter",5,8,13,18,"Not late",6.36923076923077
+"244",800,18.49,"Clear","Low","Afternoon","Scooter",14,6,71,85,"Late",15.6253521126761
+"245",307,10.57,"Snowy","Low","Afternoon","Bike",28,9,59,87,"Late",10.7491525423729
+"246",110,2,"Clear","High","Evening","Scooter",10,2,30,40,"Not late",4
+"247",431,3.29,"Clear","Medium","Afternoon","Scooter",17,4,32,49,"Not late",6.16875
+"248",78,1.94,"Rainy","Medium","Morning","Bike",16,0,35,51,"Not late",3.32571428571429
+"250",287,9.58,"Clear","High","Afternoon","Car",26,8,60,86,"Late",9.58
+"251",83,6.95,"Clear","Medium","Morning","Scooter",25,2,58,83,"Late",7.18965517241379
+"252",992,14.05,"Clear","High","Morning","Scooter",19,0,72,91,"Late",11.7083333333333
+"253",790,18.97,"Rainy","High","Night","Bike",20,8,108,128,"Late",10.5388888888889
+"254",895,13.53,"Rainy","Low","Evening","Bike",28,8,78,106,"Late",10.4076923076923
+"255",399,15.14,"Rainy","Medium","Morning","Bike",8,6,66,74,"Late",13.7636363636364
+"256",324,5.96,"Clear","Low","Afternoon","Bike",26,6,48,74,"Not late",7.45
+"257",520,3.43,"Windy","Medium","Morning","Bike",7,6,23,30,"Not late",8.94782608695652
+"259",923,17.94,"Rainy","High","Evening","Scooter",22,6,85,107,"Late",12.6635294117647
+"260",6,3.54,"Rainy","Medium","Evening","Bike",10,5,32,42,"Not late",6.6375
+"261",732,16.38,"Rainy","Medium","Night","Bike",7,4.57938144329897,90,97,"Late",10.92
+"262",466,7.81,"Clear","Low","Evening","Bike",11,4,42,53,"Not late",11.1571428571429
+"264",267,14.09,"Clear","Medium","Afternoon","Scooter",12,3,55,67,"Not late",15.3709090909091
+"265",358,11.92,"Clear","Low","Afternoon","Scooter",14,4,46,60,"Not late",15.5478260869565
+"266",869,17.3,"Clear","Low","Evening","Scooter",9,0,67,76,"Late",15.4925373134328
+"267",799,14.08,"Clear","High","Morning","Bike",28,6,66,94,"Late",12.8
+"268",381,2.8,"Clear","High","Afternoon","Bike",28,1,50,78,"Not late",3.36
+"270",382,14.09,"Clear","High","Afternoon","Bike",12,6,67,79,"Late",12.6179104477612
+"271",491,9.39,"Clear","Low","Morning","Bike",14,2,37,51,"Not late",15.227027027027
+"272",119,17.9,"Clear","Low","Morning","Bike",23,4.57938144329897,85,108,"Late",12.6352941176471
+"273",901,4.55,"Rainy","Low","Afternoon","Bike",5,6,21,26,"Not late",13
+"274",251,6.24,"Snowy","Low","Afternoon","Bike",20,4,51,71,"Not late",7.34117647058824
+"275",524,16.92,"Clear","Low","Morning","Scooter",29,0,70,99,"Late",14.5028571428571
+"276",10,14.31,"Clear","Medium","Morning","Bike",9,8,47,56,"Not late",18.268085106383
+"278",604,2.23,"Clear","Low","Morning","Bike",7,6,14,21,"Not late",9.55714285714286
+"279",82,12.65,"Clear","Low","Evening","Bike",15,4,66,81,"Late",11.5
+"280",784,7.24,"Rainy","Medium","Evening","Bike",28,6,65,93,"Late",6.68307692307692
+"281",588,3.01,"Clear","Medium","Evening","Bike",14,4,26,40,"Not late",6.94615384615385
+"283",240,3.95,"Clear","Low","Afternoon","Bike",13,5,25,38,"Not late",9.48
+"284",291,1.09,"Clear","Medium","Morning","Scooter",6,2,17,23,"Not late",3.84705882352941
+"285",212,13.99,"Clear","High","Evening","Scooter",7,3,96,103,"Late",8.74375
+"286",718,19.32,"Rainy","High","Morning","Car",21,7,112,133,"Late",10.35
+"287",360,11.72,"Rainy","Low","Evening","Bike",11,9,42,53,"Not late",16.7428571428571
+"288",450,2.13,"Rainy","Low","Morning","Scooter",9,2,22,31,"Not late",5.80909090909091
+"289",228,8.17,"Clear","Medium","Afternoon","Scooter",20,9,44,64,"Not late",11.1409090909091
+"290",951,12.21,"Clear","High","Morning","Bike",9,4,57,66,"Late",12.8526315789474
+"291",947,3.17,"Clear","Medium","Evening","Scooter",17,6,33,50,"Not late",5.76363636363636
+"292",797,18.68,"Snowy","Low","Afternoon","Bike",11,8,62,73,"Late",18.0774193548387
+"293",502,10.95,"Clear","Medium","Evening","Scooter",24,4,55,79,"Not late",11.9454545454545
+"294",465,19.26,"Windy","Medium","Morning","Scooter",21,6,67,88,"Late",17.2477611940299
+"296",469,4.86,"Foggy","Medium","Evening","Car",25,4,52,77,"Not late",5.60769230769231
+"297",936,5.81,"Foggy","Low","Afternoon","Bike",25,8,51,76,"Not late",6.83529411764706
+"298",429,7.34,"Rainy","Low","Evening","Bike",22,8,47,69,"Not late",9.37021276595745
+"299",8,17.39,"Foggy","Medium","Morning","Bike",25,4,100,125,"Late",10.434
+"300",156,5.22,"Snowy","Low","Evening","Bike",11,9,40,51,"Not late",7.83
+"301",542,12.32,"Clear","Medium","Evening","Scooter",17,4,71,88,"Late",10.4112676056338
+"302",441,2.15,"Windy","Medium","Afternoon","Car",17,6,30,47,"Not late",4.3
+"303",483,9.36,"Rainy","High","Morning","Scooter",17,2,65,82,"Late",8.64
+"304",423,2.28,"Clear","Medium","Evening","Scooter",27,9,39,66,"Not late",3.50769230769231
+"305",779,14.54,"Clear","Medium","Evening","Bike",29,2,73,102,"Late",11.9506849315068
+"306",950,12.15,"Clear","High","Morning","Car",12,6,63,75,"Late",11.5714285714286
+"307",335,1.4,"Windy","Low","Evening","Bike",9,9,17,26,"Not late",4.94117647058824
+"308",577,3.37,"Clear","High","Morning","Bike",9,4.57938144329897,28,37,"Not late",7.22142857142857
+"309",935,3.85,"Rainy","Medium","Afternoon","Bike",26,3,46,72,"Not late",5.02173913043478
+"311",595,17.99,"Snowy","Low","Afternoon","Bike",15,3,63,78,"Late",17.1333333333333
+"312",531,16.35,"Clear","Medium","Morning","Bike",16,0,66,82,"Late",14.8636363636364
+"313",582,19.61,"Clear","High","Evening","Bike",8,6,72,80,"Late",16.3416666666667
+"314",708,16.29,"Clear","Low","Morning","Bike",20,1,72,92,"Late",13.575
+"315",449,7.84,"Windy","Low","Afternoon","Bike",6,4,28,34,"Not late",16.8
+"316",454,18.17,"Rainy","Low","Afternoon","Car",13,0,71,84,"Late",15.3549295774648
+"318",353,13.34,"Clear","Medium","Night","Bike",20,6,53,73,"Not late",15.1018867924528
+"319",729,4.43,"Foggy","Low","Morning","Scooter",10,1,63,73,"Late",4.21904761904762
+"321",80,2.76,"Windy","Medium","Night","Bike",6,2,27,33,"Not late",6.13333333333333
+"322",149,1.5,"Foggy","Medium","Evening","Scooter",15,4,32,47,"Not late",2.8125
+"323",303,11.04,"Clear","Medium","Afternoon","Scooter",8,2,54,62,"Not late",12.2666666666667
+"324",629,1.22,"Clear","Medium","Evening","Scooter",6,4.57938144329897,14,20,"Not late",5.22857142857143
+"325",778,14.58,"Clear","Low","Afternoon","Bike",13,4.57938144329897,57,70,"Late",15.3473684210526
+"326",507,18.26,"Rainy","High","Night","Scooter",28,7,93,121,"Late",11.7806451612903
+"327",343,3.88,"Foggy","Low","Evening","Car",27,9,42,69,"Not late",5.54285714285714
+"328",486,18.07,"Clear","High","Afternoon","Scooter",5,2,67,72,"Late",16.1820895522388
+"329",712,12.11,"Clear","Medium","Evening","Bike",28,0,75,103,"Late",9.688
+"330",134,7.08,"Clear","Medium","Afternoon","Scooter",5,8,27,32,"Not late",15.7333333333333
+"331",704,3.12,"Rainy","Low","Evening","Scooter",14,5,28,42,"Not late",6.68571428571429
+"332",312,2.03,"Foggy","High","Evening","Car",14,4,36,50,"Not late",3.38333333333333
+"334",630,5.42,"Clear","Low","Evening","Scooter",11,9,26,37,"Not late",12.5076923076923
+"335",1,7.8,"Clear","Low","Evening","Scooter",23,5,52,75,"Not late",9
+"336",317,8.47,"Rainy","Low","Afternoon","Scooter",19,0,48,67,"Not late",10.5875
+"337",707,6.79,"Rainy","Low","Evening","Scooter",16,1,39,55,"Not late",10.4461538461538
+"338",548,13.6,"Rainy","Medium","Afternoon","Scooter",23,6,83,106,"Late",9.83132530120482
+"339",873,13.06,"Rainy","High","Morning","Bike",17,8,59,76,"Late",13.2813559322034
+"340",533,19.93,"Snowy","Low","Afternoon","Bike",6,6,59,65,"Late",20.2677966101695
+"341",478,11.3,"Snowy","Medium","Afternoon","Bike",15,8,70,85,"Late",9.68571428571429
+"342",405,6.74,"Rainy","Medium","Evening","Car",21,9,47,68,"Not late",8.60425531914894
+"343",173,10.49,"Rainy","Low","Morning","Bike",28,9,66,94,"Late",9.53636363636364
+"345",395,7.15,"Clear","High","Night","Car",29,7,60,89,"Late",7.15
+"346",421,15.94,"Clear","Low","Evening","Bike",24,2,77,101,"Late",12.4207792207792
+"347",553,11.26,"Foggy","High","Afternoon","Bike",14,2,70,84,"Late",9.65142857142857
+"348",904,11.87,"Clear","Medium","Morning","Bike",10,6,43,53,"Not late",16.5627906976744
+"349",91,2.83,"Windy","Medium","Afternoon","Scooter",14,6,28,42,"Not late",6.06428571428571
+"350",940,11.74,"Clear","Low","Afternoon","Car",20,1,52,72,"Not late",13.5461538461538
+"351",182,2.71,"Clear","Low","Morning","Scooter",6,1,20,26,"Not late",8.13
+"352",275,10.47,"Clear","High","Evening","Scooter",14,7,55,69,"Not late",11.4218181818182
+"353",896,4.5,"Snowy","High","Evening","Bike",24,0,66,90,"Late",4.09090909090909
+"355",292,1.23,"Clear","Low","Evening","Bike",18,6,21,39,"Not late",3.51428571428571
+"356",132,4.83,"Clear","Low","Evening","Bike",11,1,29,40,"Not late",9.99310344827586
+"357",301,1.51,"Clear","High","Afternoon","Bike",14,2,32,46,"Not late",2.83125
+"358",425,1.62,"Windy","Low","Evening","Bike",9,8,16,25,"Not late",6.075
+"359",327,11.31,"Clear","High","Evening","Bike",20,0,67,87,"Late",10.1283582089552
+"360",145,6.05,"Clear","Medium","Morning","Car",24,0,48,72,"Not late",7.5625
+"361",424,10.14,"Clear","Medium","Morning","Scooter",20,1,59,79,"Late",10.3118644067797
+"362",581,9.45,"Clear","Low","Afternoon","Car",13,0,49,62,"Not late",11.5714285714286
+"363",136,6.8,"Clear","High","Evening","Bike",28,5,55,83,"Not late",7.41818181818182
+"364",451,15.65,"Clear","Low","Afternoon","Bike",27,0,76,103,"Late",12.3552631578947
+"365",165,2.26,"Clear","Medium","Morning","Scooter",6,3,19,25,"Not late",7.13684210526316
+"366",29,12.05,"Clear","Low","Evening","Scooter",29,4,61,90,"Late",11.8524590163934
+"367",774,8.25,"Windy","Medium","Evening","Car",24,4,62,86,"Late",7.98387096774194
+"368",194,12.85,"Rainy","Medium","Afternoon","Scooter",23,0,80,103,"Late",9.6375
+"369",389,15.14,"Windy","Medium","Morning","Bike",15,4,71,86,"Late",12.7943661971831
+"370",853,4.59,"Foggy","Low","Evening","Scooter",19,8,36,55,"Not late",7.65
+"371",170,12.02,"Clear","Low","Afternoon","Bike",26,0,63,89,"Late",11.447619047619
+"372",706,19.8,"Clear","High","Evening","Bike",7,3,88,95,"Late",13.5
+"373",141,19.27,"Foggy","High","Afternoon","Bike",14,6,92,106,"Late",12.5673913043478
+"374",174,4.92,"Clear","High","Morning","Scooter",12,0,41,53,"Not late",7.2
+"375",7,1.63,"Rainy","Medium","Night","Bike",24,5,38,62,"Not late",2.57368421052632
+"376",746,18.04,"Clear","Medium","Morning","Bike",8,5,71,79,"Late",15.2450704225352
+"378",74,16.4,"Clear","High","Morning","Scooter",12,2,70,82,"Late",14.0571428571429
+"379",911,12.01,"Clear","Low","Morning","Car",5,7,42,47,"Not late",17.1571428571429
+"382",146,1.22,"Foggy","High","Afternoon","Scooter",14,2,38,52,"Not late",1.92631578947368
+"383",793,10.36,"Rainy","Medium","Afternoon","Bike",7,8,39,46,"Not late",15.9384615384615
+"384",235,4.31,"Rainy","Medium","Afternoon","Bike",9,2,35,44,"Not late",7.38857142857143
+"385",221,13.32,"Windy","Medium","Afternoon","Bike",26,0,71,97,"Late",11.256338028169
+"386",924,16.1,"Clear","Low","Morning","Car",16,6,61,77,"Late",15.8360655737705
+"387",501,14.11,"Rainy","High","Morning","Scooter",24,3,93,117,"Late",9.10322580645161
+"388",133,2.84,"Clear","Medium","Night","Scooter",28,1,44,72,"Not late",3.87272727272727
+"389",991,16.09,"Snowy","Low","Morning","Car",13,6,69,82,"Late",13.9913043478261
+"390",775,16.05,"Snowy","Medium","Evening","Bike",11,2,89,100,"Late",10.8202247191011
+"391",186,13.37,"Windy","High","Afternoon","Scooter",17,8,63,80,"Late",12.7333333333333
+"392",42,10.16,"Snowy","Medium","Night","Bike",10,1,67,77,"Late",9.09850746268657
+"393",697,6.13,"Clear","Medium","Night","Scooter",22,0,48,70,"Not late",7.6625
+"394",109,4.96,"Rainy","Low","Afternoon","Car",10,7,28,38,"Not late",10.6285714285714
+"395",589,3,"Clear","Low","Morning","Scooter",29,1,43,72,"Not late",4.18604651162791
+"396",57,2.23,"Snowy","Medium","Evening","Car",14,0,41,55,"Not late",3.26341463414634
+"398",443,7.8,"Rainy","Medium","Morning","Bike",11,7,49,60,"Not late",9.55102040816327
+"399",758,10.9,"Clear","High","Afternoon","Scooter",6,8,47,53,"Not late",13.9148936170213
+"400",998,3.17,"Clear","Low","Afternoon","Bike",17,1,28,45,"Not late",6.79285714285714
+"401",25,9.39,"Windy","Medium","Morning","Scooter",21,9,50,71,"Not late",11.268
+"402",468,17.44,"Clear","Low","Evening","Bike",25,9,89,114,"Late",11.7573033707865
+"403",540,3.02,"Rainy","Medium","Morning","Bike",23,1,46,69,"Not late",3.93913043478261
+"404",532,19.99,"Rainy","High","Evening","Bike",17,1,112,129,"Late",10.7089285714286
+"405",619,16.22,"Rainy","High","Evening","Bike",22,0,102,124,"Late",9.54117647058824
+"406",695,2.74,"Clear","High","Afternoon","Bike",18,9,37,55,"Not late",4.44324324324324
+"407",927,5.74,"Rainy","High","Evening","Bike",13,9,46,59,"Not late",7.48695652173913
+"408",339,9.75,"Clear","Low","Afternoon","Bike",22,7,50,72,"Not late",11.7
+"409",52,15.62,"Rainy","Medium","Afternoon","Scooter",23,7,78,101,"Late",12.0153846153846
+"410",508,16.54,"Rainy","Medium","Afternoon","Bike",25,7,77,102,"Late",12.8883116883117
+"411",517,7.84,"Rainy","Low","Morning","Scooter",7,8,36,43,"Not late",13.0666666666667
+"413",782,11.08,"Windy","High","Afternoon","Bike",16,6,70,86,"Late",9.49714285714286
+"414",265,17.61,"Clear","Medium","Evening","Scooter",21,9,79,100,"Late",13.3746835443038
+"415",818,8.28,"Snowy","Low","Evening","Car",29,7,58,87,"Late",8.56551724137931
+"416",711,15.32,"Clear","Medium","Morning","Bike",17,6,80,97,"Late",11.49
+"417",683,3.83,"Rainy","Low","Evening","Car",27,3,49,76,"Not late",4.68979591836735
+"419",519,19.75,"Clear","Medium","Morning","Bike",25,1,103,128,"Late",11.504854368932
+"420",448,15.19,"Foggy","Low","Evening","Scooter",6,4,53,59,"Not late",17.1962264150943
+"422",716,18.63,"Windy","Low","Afternoon","Bike",11,5,85,96,"Late",13.1505882352941
+"423",484,12.74,"Clear","Low","Night","Scooter",18,0,67,85,"Late",11.4089552238806
+"424",569,18.13,"Rainy","High","Evening","Bike",21,2,88,109,"Late",12.3613636363636
+"425",434,2.47,"Rainy","Low","Afternoon","Car",22,6,34,56,"Not late",4.35882352941177
+"426",368,18.15,"Windy","Medium","Morning","Bike",11,2,89,100,"Late",12.2359550561798
+"427",84,1.74,"Foggy","High","Afternoon","Scooter",8,9,28,36,"Not late",3.72857142857143
+"428",62,5.79,"Windy","Medium","Morning","Bike",26,6,49,75,"Not late",7.08979591836735
+"429",639,5.75,"Windy","High","Morning","Scooter",7,4,37,44,"Not late",9.32432432432432
+"430",273,17.41,"Snowy","Medium","Evening","Bike",20,4,80,100,"Late",13.0575
+"431",286,1.2,"Rainy","Low","Morning","Scooter",24,7,33,57,"Not late",2.18181818181818
+"432",361,8.07,"Windy","Low","Evening","Bike",21,4,48,69,"Not late",10.0875
+"433",355,1.88,"Clear","Medium","Morning","Scooter",24,7,35,59,"Not late",3.22285714285714
+"434",457,0.72,"Rainy","Medium","Afternoon","Scooter",9,2,23,32,"Not late",1.87826086956522
+"435",279,14.19,"Clear","Medium","Afternoon","Bike",9,1,57,66,"Late",14.9368421052632
+"436",13,16.73,"Windy","High","Afternoon","Scooter",9,7,71,80,"Late",14.1380281690141
+"437",183,18.53,"Rainy","Low","Afternoon","Scooter",8,8,57,65,"Late",19.5052631578947
+"438",369,4.32,"Clear","Low","Morning","Bike",21,9,34,55,"Not late",7.62352941176471
+"439",882,13.6,"Foggy","High","Evening","Bike",9,7,61,70,"Late",13.3770491803279
+"440",616,18.46,"Rainy","Low","Morning","Bike",19,9,94,113,"Late",11.7829787234043
+"441",224,7.67,"Windy","Low","Morning","Car",9,2,31,40,"Not late",14.8451612903226
+"442",573,8.23,"Snowy","Low","Evening","Bike",17,3,56,73,"Not late",8.81785714285714
+"443",971,13.44,"Clear","Low","Night","Bike",29,0,63,92,"Late",12.8
+"444",654,15.04,"Clear","Low","Morning","Car",24,5,60,84,"Late",15.04
+"445",546,7.48,"Clear","Medium","Morning","Car",21,4,52,73,"Not late",8.63076923076923
+"447",634,10.88,"Snowy","Low","Afternoon","Car",13,3,52,65,"Not late",12.5538461538462
+"448",177,13.97,"Snowy","Low","Evening","Scooter",14,8,52,66,"Not late",16.1192307692308
+"449",666,3.48,"Foggy","Low","Afternoon","Scooter",9,1,31,40,"Not late",6.73548387096774
+"450",674,10.73,"Foggy","Low","Morning","Bike",6,6,35,41,"Not late",18.3942857142857
+"451",586,5.18,"Clear","Medium","Afternoon","Car",9,2,30,39,"Not late",10.36
+"452",874,8.47,"Foggy","Medium","Evening","Bike",24,0,68,92,"Late",7.47352941176471
+"455",249,19.29,"Windy","Medium","Evening","Scooter",7,8,84,91,"Late",13.7785714285714
+"457",886,3.98,"Clear","High","Night","Car",19,3,41,60,"Not late",5.82439024390244
+"458",670,6.06,"Foggy","Low","Afternoon","Scooter",10,8,41,51,"Not late",8.86829268292683
+"459",376,6.72,"Foggy","Low","Evening","Bike",8,5,31,39,"Not late",13.0064516129032
+"460",413,19.04,"Clear","Medium","Morning","Scooter",27,2,85,112,"Late",13.44
+"461",75,14.28,"Windy","High","Afternoon","Scooter",23,5,77,100,"Late",11.1272727272727
+"462",114,16.26,"Rainy","High","Morning","Bike",16,6,70,86,"Late",13.9371428571429
+"463",599,4.25,"Clear","Low","Afternoon","Bike",5,4,22,27,"Not late",11.5909090909091
+"464",962,12.26,"Clear","Low","Afternoon","Bike",20,2,66,86,"Late",11.1454545454545
+"465",391,19.81,"Clear","Low","Afternoon","Bike",27,1,74,101,"Late",16.0621621621622
+"466",105,18.2,"Windy","Medium","Morning","Bike",27,1,108,135,"Late",10.1111111111111
+"467",115,12.85,"Rainy","Medium","Morning","Scooter",14,8,73,87,"Late",10.5616438356164
+"468",418,6.91,"Clear","Low","Evening","Bike",27,8,91,118,"Late",4.55604395604396
+"469",526,9.64,"Clear","Low","Morning","Bike",10,5,46,56,"Not late",12.5739130434783
+"470",458,9.64,"Rainy","Medium","Evening","Bike",14,6,52,66,"Not late",11.1230769230769
+"471",410,2.28,"Foggy","Medium","Morning","Scooter",27,6,44,71,"Not late",3.10909090909091
+"472",93,15.34,"Rainy","Low","Afternoon","Bike",18,6,54,72,"Not late",17.0444444444444
+"473",931,3.22,"Rainy","Medium","Night","Bike",14,8,34,48,"Not late",5.68235294117647
+"474",90,9.71,"Clear","Low","Morning","Bike",8,1,49,57,"Not late",11.8897959183673
+"475",337,17.18,"Clear","Medium","Night","Scooter",13,1,62,75,"Late",16.6258064516129
+"476",989,5.3,"Clear","Medium","Afternoon","Scooter",29,3,47,76,"Not late",6.76595744680851
+"477",922,10,"Clear","Medium","Afternoon","Scooter",6,9,47,53,"Not late",12.7659574468085
+"478",934,10.75,"Rainy","Medium","Morning","Bike",8,6,60,68,"Late",10.75
+"479",606,9.49,"Rainy","Medium","Morning","Car",23,6,53,76,"Not late",10.7433962264151
+"480",594,7.24,"Clear","Medium","Afternoon","Bike",28,7,57,85,"Late",7.62105263157895
+"481",612,16.09,"Rainy","Low","Morning","Bike",21,8,66,87,"Late",14.6272727272727
+"482",95,15.53,"Clear","Low","Morning","Bike",26,6,83,109,"Late",11.2265060240964
+"483",12,19.41,"Windy","Low","Morning","Bike",11,8,62,73,"Late",18.7838709677419
+"484",397,17.24,"Clear","Low","Evening","Bike",17,5,69,86,"Late",14.9913043478261
+"486",44,18.23,"Rainy","Low","Afternoon","Scooter",27,9,86,113,"Late",12.7186046511628
+"487",43,1.17,"Clear","Medium","Morning","Bike",16,9,25,41,"Not late",2.808
+"488",330,5.33,"Clear","Low","Evening","Car",29,1,51,80,"Not late",6.27058823529412
+"489",168,4.14,"Rainy","Low","Morning","Bike",23,2,41,64,"Not late",6.05853658536585
+"490",498,2.02,"Clear","High","Evening","Bike",28,5,44,72,"Not late",2.75454545454545
+"491",877,14.46,"Rainy","Medium","Morning","Scooter",11,9,68,79,"Late",12.7588235294118
+"492",598,3.86,"Clear","Medium","Afternoon","Bike",21,8,34,55,"Not late",6.81176470588235
+"493",757,12.59,"Windy","Medium","Morning","Bike",13,9,62,75,"Late",12.1838709677419
+"494",101,1.11,"Clear","High","Morning","Scooter",22,8,35,57,"Not late",1.90285714285714
+"495",427,9.11,"Clear","Low","Afternoon","Bike",19,6,42,61,"Not late",13.0142857142857
+"496",179,18.77,"Snowy","Medium","Evening","Bike",24,0,115,139,"Late",9.79304347826087
+"497",445,16.35,"Foggy","Medium","Night","Bike",16,6,67,83,"Late",14.6417910447761
+"498",417,6.22,"Clear","Low","Afternoon","Bike",16,9,29,45,"Not late",12.8689655172414
+"499",871,7.78,"Foggy","High","Afternoon","Bike",25,3,74,99,"Late",6.30810810810811
+"500",883,0.88,"Rainy","Low","Night","Car",27,2,37,64,"Not late",1.42702702702703
+"501",681,16.43,"Clear","Low","Evening","Bike",13,5,56,69,"Not late",17.6035714285714
+"502",178,8.04,"Clear","Medium","Evening","Car",27,0,65,92,"Late",7.42153846153846
+"503",396,18.65,"Foggy","Low","Night","Car",19,2,68,87,"Late",16.4558823529412
+"504",912,5.73,"Foggy","Low","Morning","Scooter",7,2,30,37,"Not late",11.46
+"505",794,12.42,"Rainy","Low","Evening","Bike",28,9,79,107,"Late",9.43291139240506
+"506",961,2.11,"Clear","Low","Afternoon","Scooter",28,5,34,62,"Not late",3.72352941176471
+"507",685,18.62,"Clear","Low","Evening","Scooter",27,6,75,102,"Late",14.896
+"508",384,17.61,"Clear","Medium","Morning","Scooter",19,3,80,99,"Late",13.2075
+"509",957,10.62,"Rainy","Medium","Night","Bike",7,2,48,55,"Not late",13.275
+"511",258,14.07,"Clear","Medium","Morning","Bike",16,9,73,89,"Late",11.5643835616438
+"512",539,9.29,"Clear","Medium","Evening","Bike",10,9,40,50,"Not late",13.935
+"513",336,1.29,"Rainy","Low","Evening","Bike",7,7,15,22,"Not late",5.16
+"514",16,4.08,"Windy","Medium","Afternoon","Bike",7,0,33,40,"Not late",7.41818181818182
+"515",325,19.12,"Windy","High","Evening","Car",8,0,92,100,"Late",12.4695652173913
+"516",759,17.93,"Clear","Medium","Afternoon","Bike",29,4,85,114,"Late",12.6564705882353
+"518",180,3.18,"Rainy","Medium","Evening","Bike",21,3,42,63,"Not late",4.54285714285714
+"519",984,1.97,"Clear","High","Morning","Car",28,7,43,71,"Not late",2.74883720930233
+"520",23,6.2,"Windy","High","Evening","Scooter",7,3,42,49,"Not late",8.85714285714286
+"521",357,1.02,"Windy","High","Evening","Bike",6,8,21,27,"Not late",2.91428571428571
+"522",667,5.3,"Clear","Low","Evening","Bike",16,5,32,48,"Not late",9.9375
+"523",862,9.34,"Rainy","Low","Evening","Car",10,0,40,50,"Not late",14.01
+"524",341,10.09,"Clear","Medium","Evening","Bike",7,0,49,56,"Not late",12.3551020408163
+"525",432,15.35,"Rainy","High","Night","Scooter",23,9,80,103,"Late",11.5125
+"526",552,17.12,"Rainy","Low","Morning","Bike",26,3,86,112,"Late",11.9441860465116
+"527",834,3.94,"Snowy","Low","Afternoon","Bike",19,3,43,62,"Not late",5.49767441860465
+"529",631,14.41,"Snowy","Medium","Evening","Bike",8,8,75,83,"Late",11.528
+"530",94,11.44,"Rainy","Medium","Evening","Car",20,2,57,77,"Late",12.0421052631579
+"531",559,15.23,"Foggy","Low","Morning","Car",6,0,52,58,"Not late",17.5730769230769
+"532",69,1.95,"Clear","Low","Morning","Scooter",16,2,23,39,"Not late",5.08695652173913
+"533",623,7.72,"Rainy","Medium","Morning","Bike",11,4.57938144329897,36,47,"Not late",12.8666666666667
+"534",285,11.78,"Clear","Low","Afternoon","Scooter",26,3,71,97,"Late",9.95492957746479
+"535",845,3.4,"Windy","Medium","Morning","Bike",11,6,30,41,"Not late",6.8
+"536",435,2.14,"Clear","High","Evening","Bike",18,3,34,52,"Not late",3.77647058823529
+"537",154,10.04,"Rainy","High","Afternoon","Bike",12,9,59,71,"Late",10.2101694915254
+"539",731,3.7,"Clear","Medium","Morning","Bike",28,7,45,73,"Not late",4.93333333333333
+"540",447,19.73,"Rainy","Low","Evening","Bike",8,8,64,72,"Late",18.496875
+"541",189,10.83,"Clear","Medium","Evening","Scooter",8,9,51,59,"Not late",12.7411764705882
+"542",272,16.3,"Foggy","Low","Morning","Car",12,1,100,112,"Late",9.78
+"543",237,5.98,"Foggy","High","Morning","Bike",14,6,44,58,"Not late",8.15454545454546
+"544",488,5.98,"Rainy","High","Morning","Bike",21,2,60,81,"Late",5.98
+"545",118,4.14,"Foggy","Medium","Morning","Bike",21,0,46,67,"Not late",5.4
+"547",513,18.69,"Windy","Medium","Night","Bike",23,9,74,97,"Late",15.1540540540541
+"548",826,18.44,"Rainy","High","Morning","Bike",27,7,80,107,"Late",13.83
+"549",592,13,"Windy","High","Morning","Bike",22,8,65,87,"Late",12
+"551",117,16.17,"Clear","Medium","Evening","Car",10,2,116,126,"Late",8.36379310344828
+"552",474,17.88,"Clear","Medium","Evening","Bike",29,3,98,127,"Late",10.9469387755102
+"553",694,5.23,"Clear","Medium","Morning","Scooter",19,4,37,56,"Not late",8.48108108108108
+"555",864,9.09,"Rainy","Medium","Morning","Bike",6,7,43,49,"Not late",12.6837209302326
+"556",913,12.67,"Windy","Medium","Morning","Scooter",7,3,43,50,"Not late",17.6790697674419
+"557",370,1.85,"Clear","Medium","Evening","Bike",10,1,24,34,"Not late",4.625
+"558",269,7.51,"Rainy","Low","Evening","Car",27,6,50,77,"Not late",9.012
+"559",47,6.58,"Clear","Low","Afternoon","Bike",13,1,34,47,"Not late",11.6117647058824
+"560",350,12.7,"Clear","Low","Morning","Scooter",22,2,57,79,"Late",13.3684210526316
+"561",196,7.31,"Foggy","Medium","Afternoon","Bike",26,2,65,91,"Late",6.74769230769231
+"562",1000,9.2,"Clear","High","Morning","Scooter",9,9,48,57,"Not late",11.5
+"563",835,10.22,"Foggy","Low","Afternoon","Scooter",21,0,61,82,"Late",10.0524590163934
+"564",737,8.15,"Clear","High","Evening","Scooter",12,9,43,55,"Not late",11.3720930232558
+"565",264,10.61,"Clear","Medium","Morning","Bike",17,0,59,76,"Late",10.7898305084746
+"566",444,7.73,"Clear","High","Night","Bike",29,5,58,87,"Late",7.99655172413793
+"567",676,19.66,"Clear","Low","Morning","Car",19,6,70,89,"Late",16.8514285714286
+"568",305,14.66,"Snowy","High","Morning","Car",5,6,71,76,"Late",12.3887323943662
+"569",342,9.73,"Clear","Low","Afternoon","Bike",29,6,60,89,"Late",9.73
+"570",967,14.52,"Clear","Medium","Afternoon","Car",26,5,86,112,"Late",10.1302325581395
+"572",125,4.94,"Rainy","High","Evening","Scooter",28,4,63,91,"Late",4.7047619047619
+"573",787,11.88,"Rainy","High","Afternoon","Car",29,9,78,107,"Late",9.13846153846154
+"574",51,19.41,"Foggy","Medium","Morning","Car",7,6,66,73,"Late",17.6454545454545
+"576",928,11.06,"Clear","High","Evening","Bike",6,9,53,59,"Not late",12.5207547169811
+"577",143,10.2,"Rainy","Medium","Afternoon","Bike",18,9,56,74,"Not late",10.9285714285714
+"578",471,0.74,"Rainy","Low","Morning","Car",13,4,21,34,"Not late",2.11428571428571
+"579",400,15.21,"Snowy","Medium","Afternoon","Bike",20,9,90,110,"Late",10.14
+"580",626,7.69,"Rainy","High","Morning","Scooter",16,3,58,74,"Late",7.9551724137931
+"581",321,11.21,"Clear","High","Afternoon","Scooter",23,1,76,99,"Late",8.85
+"582",20,6.18,"Clear","Medium","Evening","Bike",9,9,35,44,"Not late",10.5942857142857
+"583",810,2.71,"Clear","Medium","Morning","Car",6,5,19,25,"Not late",8.5578947368421
+"584",791,3.49,"Clear","Medium","Morning","Bike",17,2,38,55,"Not late",5.51052631578947
+"585",809,9.29,"Clear","Medium","Morning","Bike",17,2,49,66,"Not late",11.3755102040816
+"586",408,0.71,"Foggy","Low","Night","Bike",29,1,41,70,"Not late",1.0390243902439
+"587",538,5.32,"Rainy","Low","Afternoon","Scooter",27,2,48,75,"Not late",6.65
+"588",621,4.1,"Clear","Medium","Evening","Car",18,3,38,56,"Not late",6.47368421052632
+"589",39,13.84,"Clear","Low","Morning","Scooter",18,4.57938144329897,64,82,"Late",12.975
+"590",176,3.9,"Rainy","High","Morning","Car",25,9,54,79,"Not late",4.33333333333333
+"591",246,18.6,"Rainy","Medium","Morning","Car",28,9,77,105,"Late",14.4935064935065
+"592",829,14.88,"Snowy","Medium","Evening","Bike",10,0,64,74,"Late",13.95
+"593",668,3.63,"Windy","Medium","Morning","Car",22,9,39,61,"Not late",5.58461538461538
+"594",755,3.22,"Windy","High","Morning","Car",7,7,27,34,"Not late",7.15555555555556
+"595",859,11.51,"Foggy","Low","Afternoon","Car",5,7,57,62,"Late",12.1157894736842
+"596",155,19.72,"Rainy","Low","Afternoon","Bike",27,6,109,136,"Late",10.8550458715596
+"597",288,11.08,"Clear","Low","Evening","Scooter",28,2,58,86,"Late",11.4620689655172
+"598",603,3.95,"Clear","Medium","Morning","Car",28,5,47,75,"Not late",5.04255319148936
+"599",570,7.29,"Clear","High","Evening","Car",11,7,48,59,"Not late",9.1125
+"600",744,10.3,"Clear","Low","Morning","Car",12,7,41,53,"Not late",15.0731707317073
+"601",18,10.73,"Rainy","High","Afternoon","Car",27,6,83,110,"Late",7.7566265060241
+"602",128,17.28,"Clear","Low","Morning","Car",28,3,72,100,"Late",14.4
+"603",323,13.37,"Foggy","Medium","Evening","Scooter",16,9,71,87,"Late",11.2985915492958
+"604",256,11.36,"Clear","Medium","Morning","Scooter",8,2,52,60,"Not late",13.1076923076923
+"605",658,7.58,"Clear","High","Afternoon","Scooter",19,9,57,76,"Late",7.97894736842105
+"607",191,2.32,"Clear","Low","Afternoon","Scooter",23,1,32,55,"Not late",4.35
+"608",116,17.49,"Rainy","Low","Evening","Bike",27,9,97,124,"Late",10.8185567010309
+"611",181,7.15,"Windy","Low","Morning","Bike",15,3,42,57,"Not late",10.2142857142857
+"613",760,15.88,"Rainy","Low","Evening","Car",17,1,68,85,"Late",14.0117647058824
+"614",713,9.7,"Snowy","Low","Evening","Bike",6,4.57938144329897,45,51,"Not late",12.9333333333333
+"615",724,14.95,"Clear","Medium","Morning","Bike",13,7,49,62,"Not late",18.3061224489796
+"616",686,11.36,"Foggy","Low","Afternoon","Bike",6,4,47,53,"Not late",14.5021276595745
+"617",980,12.14,"Foggy","High","Afternoon","Bike",12,0,65,77,"Late",11.2061538461538
+"618",518,16.31,"Foggy","Medium","Afternoon","Car",14,7,71,85,"Late",13.7830985915493
+"619",985,14.7,"Clear","Medium","Evening","Scooter",24,5,75,99,"Late",11.76
+"620",46,13.42,"Rainy","Medium","Evening","Bike",6,6,105,111,"Late",7.66857142857143
+"621",910,7.9,"Clear","Low","Afternoon","Scooter",22,4.57938144329897,48,70,"Not late",9.875
+"622",158,15.35,"Foggy","Low","Morning","Car",5,3,56,61,"Not late",16.4464285714286
+"623",852,15.12,"Foggy","Low","Morning","Bike",14,1,58,72,"Late",15.6413793103448
+"624",172,0.82,"Windy","Low","Morning","Car",18,9,23,41,"Not late",2.13913043478261
+"625",17,6.43,"Clear","Low","Evening","Car",9,7,26,35,"Not late",14.8384615384615
+"626",512,8.66,"Snowy","High","Morning","Bike",29,3,77,106,"Late",6.74805194805195
+"627",49,11.16,"Foggy","Medium","Afternoon","Car",21,4,77,98,"Late",8.6961038961039
+"628",972,18.77,"Foggy","Low","Afternoon","Car",15,4.57938144329897,71,86,"Late",15.8619718309859
+"630",516,1.01,"Clear","High","Night","Bike",17,7,29,46,"Not late",2.08965517241379
+"631",953,3.92,"Rainy","Medium","Night","Bike",20,9,41,61,"Not late",5.73658536585366
+"632",481,12.77,"Foggy","Low","Morning","Bike",22,8,71,93,"Late",10.7915492957746
+"633",284,2.33,"Clear","Low","Evening","Bike",9,2,18,27,"Not late",7.76666666666667
+"634",719,2.92,"Windy","High","Afternoon","Bike",24,4,48,72,"Not late",3.65
+"635",878,13.35,"Rainy","Low","Evening","Scooter",14,4,91,105,"Late",8.8021978021978
+"636",226,5.26,"Rainy","Medium","Evening","Scooter",28,8,51,79,"Not late",6.18823529411765
+"637",27,4.39,"Foggy","Medium","Night","Bike",12,8,38,50,"Not late",6.93157894736842
+"638",955,8.67,"Windy","High","Morning","Bike",20,4,55,75,"Not late",9.45818181818182
+"639",438,16.53,"Snowy","Low","Afternoon","Scooter",24,9,99,123,"Late",10.0181818181818
+"640",952,13.47,"Clear","Medium","Evening","Bike",19,4,59,78,"Late",13.6983050847458
+"641",365,18.86,"Snowy","Medium","Night","Bike",18,1,89,107,"Late",12.714606741573
+"642",230,12.81,"Clear","Low","Morning","Bike",12,2,51,63,"Not late",15.0705882352941
+"643",38,2.4,"Snowy","Low","Night","Scooter",27,5,42,69,"Not late",3.42857142857143
+"644",966,7.44,"Rainy","Medium","Evening","Bike",6,1,39,45,"Not late",11.4461538461538
+"645",375,1.89,"Clear","Medium","Evening","Scooter",13,7,22,35,"Not late",5.15454545454545
+"646",470,19.28,"Snowy","Medium","Morning","Car",21,3,101,122,"Late",11.4534653465347
+"648",851,1.81,"Clear","Medium","Afternoon","Car",23,3,34,57,"Not late",3.19411764705882
+"649",705,1.74,"Clear","Medium","Night","Bike",23,2,34,57,"Not late",3.07058823529412
+"650",842,13.44,"Clear","Medium","Morning","Car",22,1,79,101,"Late",10.2075949367089
+"651",195,7.11,"Clear","Low","Afternoon","Scooter",27,4.57938144329897,48,75,"Not late",8.8875
+"652",855,4.5,"Windy","Low","Evening","Scooter",20,6,32,52,"Not late",8.4375
+"653",865,8.31,"Windy","Medium","Morning","Bike",6,5,44,50,"Not late",11.3318181818182
+"654",504,16.37,"Clear","High","Morning","Bike",26,7,97,123,"Late",10.1257731958763
+"655",970,9.78,"Clear","Medium","Afternoon","Bike",18,3,58,76,"Late",10.1172413793103
+"656",831,4.88,"Windy","Medium","Afternoon","Scooter",26,7,48,74,"Not late",6.1
+"658",969,11.54,"Clear","High","Afternoon","Car",10,0,56,66,"Not late",12.3642857142857
+"659",163,12.85,"Clear","Low","Afternoon","Scooter",5,4.57938144329897,54,59,"Not late",14.2777777777778
+"660",909,5.56,"Clear","Low","Afternoon","Scooter",19,5,31,50,"Not late",10.7612903225806
+"662",802,3.47,"Snowy","High","Night","Bike",24,9,53,77,"Not late",3.92830188679245
+"663",994,12.01,"Clear","Low","Morning","Scooter",26,6,57,83,"Late",12.6421052631579
+"664",756,15.98,"Foggy","Low","Morning","Car",21,6,90,111,"Late",10.6533333333333
+"665",112,3.64,"Clear","Low","Morning","Scooter",16,3,26,42,"Not late",8.4
+"666",227,19.47,"Clear","Low","Morning","Bike",16,8,83,99,"Late",14.0746987951807
+"667",689,15.51,"Rainy","Medium","Morning","Scooter",10,8,81,91,"Late",11.4888888888889
+"668",104,10.42,"Windy","Medium","Afternoon","Bike",28,3,72,100,"Late",8.68333333333333
+"669",422,15.9,"Rainy","Low","Evening","Car",19,5,78,97,"Late",12.2307692307692
+"670",420,15.17,"Windy","Low","Morning","Bike",25,4,77,102,"Late",11.8207792207792
+"672",587,1.98,"Rainy","Low","Afternoon","Bike",22,0,39,61,"Not late",3.04615384615385
+"673",781,14.03,"Clear","Low","Afternoon","Bike",17,2,65,82,"Late",12.9507692307692
+"674",673,2.06,"Foggy","Medium","Evening","Scooter",22,4,40,62,"Not late",3.09
+"675",120,11.02,"Clear","High","Morning","Scooter",22,2,70,92,"Late",9.44571428571428
+"676",54,17.95,"Snowy","High","Morning","Scooter",16,4.57938144329897,96,112,"Late",11.21875
+"677",152,5.17,"Foggy","Low","Morning","Bike",29,0,56,85,"Not late",5.53928571428571
+"678",404,16.62,"Snowy","Low","Afternoon","Bike",26,8,94,120,"Late",10.6085106382979
+"679",946,0.71,"Rainy","Low","Morning","Car",25,8,31,56,"Not late",1.3741935483871
+"681",659,13.1,"Clear","Low","Evening","Bike",28,2,72,100,"Late",10.9166666666667
+"682",844,19.24,"Rainy","High","Afternoon","Bike",9,7,75,84,"Late",15.392
+"683",763,5.35,"Clear","Medium","Afternoon","Scooter",24,6,43,67,"Not late",7.46511627906977
+"684",9,12.22,"Clear","Low","Evening","Scooter",15,0,56,71,"Not late",13.0928571428571
+"685",808,18.55,"Clear","Low","Afternoon","Car",11,9,69,80,"Late",16.1304347826087
+"686",37,6.44,"Clear","Low","Afternoon","Car",18,2,43,61,"Not late",8.98604651162791
+"687",453,8.77,"Foggy","Medium","Evening","Car",14,7,49,63,"Not late",10.7387755102041
+"688",652,10.97,"Clear","Low","Afternoon","Scooter",27,3,51,78,"Not late",12.9058823529412
+"689",254,6.68,"Clear","High","Morning","Scooter",10,5,44,54,"Not late",9.10909090909091
+"690",304,12.93,"Rainy","Low","Afternoon","Scooter",25,0,61,86,"Late",12.7180327868852
+"691",747,7.99,"Clear","Medium","Evening","Bike",18,4,42,60,"Not late",11.4142857142857
+"692",572,15.78,"Clear","High","Afternoon","Scooter",12,1,68,80,"Late",13.9235294117647
+"693",624,9.95,"Windy","High","Evening","Scooter",21,5,72,93,"Late",8.29166666666667
+"694",733,13.47,"Rainy","Low","Afternoon","Scooter",7,6,46,53,"Not late",17.5695652173913
+"695",892,17.19,"Clear","Medium","Afternoon","Bike",11,8,76,87,"Late",13.5710526315789
+"696",263,3.23,"Clear","High","Afternoon","Bike",17,9,33,50,"Not late",5.87272727272727
+"697",611,1.27,"Foggy","High","Afternoon","Bike",25,9,46,71,"Not late",1.65652173913043
+"698",298,4.71,"Clear","Low","Morning","Bike",20,6,31,51,"Not late",9.11612903225806
+"699",415,12.82,"Rainy","Medium","Evening","Bike",28,9,72,100,"Late",10.6833333333333
+"701",789,9.51,"Clear","High","Morning","Bike",26,9,63,89,"Late",9.05714285714286
+"702",641,0.89,"Rainy","Low","Morning","Car",9,0,20,29,"Not late",2.67
+"703",890,5.24,"Windy","High","Afternoon","Scooter",26,8,51,77,"Not late",6.16470588235294
+"704",551,10.64,"Windy","Low","Evening","Car",11,9,36,47,"Not late",17.7333333333333
+"705",887,13.23,"Clear","Medium","Night","Bike",20,8,70,90,"Late",11.34
+"706",489,19.03,"Clear","Medium","Morning","Scooter",8,8,65,73,"Late",17.5661538461538
+"707",148,10.3,"Rainy","Low","Evening","Bike",29,0,73,102,"Late",8.46575342465754
+"708",147,12.39,"Snowy","Medium","Evening","Bike",14,8,56,70,"Not late",13.275
+"709",721,18.8,"Clear","High","Afternoon","Bike",23,7,95,118,"Late",11.8736842105263
+"710",932,16.78,"Rainy","Medium","Morning","Bike",22,1,70,92,"Late",14.3828571428571
+"711",740,7.85,"Clear","Low","Afternoon","Scooter",7,9,34,41,"Not late",13.8529411764706
+"712",660,11.63,"Clear","Medium","Night","Scooter",29,7,57,86,"Late",12.2421052631579
+"713",349,7.8,"Windy","Medium","Afternoon","Car",17,6,44,61,"Not late",10.6363636363636
+"714",464,11.88,"Rainy","Medium","Afternoon","Bike",5,1,63,68,"Late",11.3142857142857
+"715",326,14.89,"Clear","High","Evening","Car",22,9,88,110,"Late",10.1522727272727
+"716",187,16.44,"Rainy","High","Afternoon","Bike",12,4.57938144329897,86,98,"Late",11.4697674418605
+"718",854,18.01,"Foggy","High","Night","Bike",14,2,71,85,"Late",15.2197183098592
+"719",609,10.32,"Clear","Medium","Night","Car",24,5,49,73,"Not late",12.6367346938776
+"720",144,6.37,"Rainy","Low","Afternoon","Car",29,4,56,85,"Not late",6.825
+"721",959,3.74,"Rainy","Low","Morning","Bike",19,6,36,55,"Not late",6.23333333333333
+"722",198,17.99,"Windy","High","Evening","Bike",5,1,73,78,"Late",14.786301369863
+"723",610,13.96,"Rainy","Low","Night","Bike",5,1,42,47,"Not late",19.9428571428571
+"724",280,16.02,"Clear","Low","Evening","Bike",20,7,61,81,"Late",15.7573770491803
+"726",401,2.51,"Clear","Low","Morning","Bike",16,2,28,44,"Not late",5.37857142857143
+"727",123,6.7,"Foggy","High","Morning","Scooter",23,3,59,82,"Late",6.8135593220339
+"728",184,17.61,"Windy","Low","Morning","Bike",5,8,61,66,"Late",17.3213114754098
+"729",203,3.65,"Clear","Medium","Morning","Bike",29,9,46,75,"Not late",4.76086956521739
+"730",439,14.27,"Clear","Medium","Night","Car",24,3,77,101,"Late",11.1194805194805
+"731",247,8.85,"Clear","Low","Afternoon","Bike",11,9,45,56,"Not late",11.8
+"733",933,19.7,"Rainy","Low","Evening","Car",16,6,66,82,"Late",17.9090909090909
+"734",766,11.61,"Clear","High","Morning","Car",19,1,67,86,"Late",10.3970149253731
+"735",907,16.44,"Windy","High","Afternoon","Car",8,0,80,88,"Late",12.33
+"736",836,8.67,"Rainy","High","Afternoon","Bike",12,7,104,116,"Late",5.00192307692308
+"737",888,5.14,"Clear","Medium","Evening","Scooter",23,7,43,66,"Not late",7.17209302325581
+"739",638,5.23,"Clear","Medium","Morning","Scooter",23,2,47,70,"Not late",6.67659574468085
+"740",403,10.35,"Clear","Medium","Night","Bike",7,9,48,55,"Not late",12.9375
+"741",785,4.04,"Rainy","High","Evening","Bike",14,6,39,53,"Not late",6.21538461538462
+"742",771,2.66,"Clear","Low","Afternoon","Bike",16,8,21,37,"Not late",7.6
+"743",736,17.61,"Foggy","Medium","Afternoon","Bike",9,5,74,83,"Late",14.2783783783784
+"744",914,8.48,"Clear","High","Night","Bike",11,5,39,50,"Not late",13.0461538461538
+"745",220,17.06,"Clear","Low","Evening","Bike",9,9,66,75,"Late",15.5090909090909
+"746",642,6.78,"Foggy","Low","Night","Bike",18,6,42,60,"Not late",9.68571428571429
+"747",916,9,"Snowy","Medium","Afternoon","Car",29,3,78,107,"Late",6.92307692307692
+"748",753,12.74,"Clear","Low","Afternoon","Scooter",12,0,63,75,"Late",12.1333333333333
+"749",807,18.72,"Rainy","Medium","Afternoon","Bike",17,0,89,106,"Late",12.6202247191011
+"751",625,12.56,"Clear","Low","Morning","Car",22,8,49,71,"Not late",15.3795918367347
+"752",875,1,"Snowy","Medium","Morning","Bike",28,0,51,79,"Not late",1.17647058823529
+"753",761,3.46,"Clear","Low","Morning","Bike",24,6,37,61,"Not late",5.61081081081081
+"754",387,6,"Snowy","Low","Morning","Car",20,8,53,73,"Not late",6.79245283018868
+"755",973,14.79,"Clear","Medium","Morning","Scooter",12,9,64,76,"Late",13.865625
+"756",510,14.65,"Snowy","High","Morning","Car",19,3,95,114,"Late",9.25263157894737
+"757",268,14.2,"Clear","Medium","Afternoon","Bike",17,1,73,90,"Late",11.6712328767123
+"758",820,7.04,"Clear","Low","Afternoon","Bike",11,8,38,49,"Not late",11.1157894736842
+"760",497,11.88,"Rainy","Medium","Evening","Bike",20,8,69,89,"Late",10.3304347826087
+"761",113,18.63,"Clear","Low","Evening","Bike",26,8,75,101,"Late",14.904
+"762",692,8.8,"Rainy","Medium","Afternoon","Bike",6,2,38,44,"Not late",13.8947368421053
+"763",233,11.75,"Clear","High","Morning","Bike",9,2,55,64,"Not late",12.8181818181818
+"764",870,18.95,"Snowy","Low","Morning","Car",27,0,92,119,"Late",12.3586956521739
+"765",608,7.6,"Foggy","Low","Morning","Bike",16,4,48,64,"Not late",9.5
+"766",672,17.99,"Foggy","Low","Morning","Car",11,2,84,95,"Late",12.85
+"767",374,13.82,"Clear","Medium","Evening","Bike",21,9,72,93,"Late",11.5166666666667
+"768",982,15.53,"Foggy","Low","Evening","Bike",26,7,68,94,"Late",13.7029411764706
+"769",843,3.97,"Clear","High","Afternoon","Bike",19,8,40,59,"Not late",5.955
+"770",234,10.1,"Clear","High","Morning","Car",17,6,55,72,"Not late",11.0181818181818
+"771",786,18.21,"Foggy","Low","Morning","Bike",5,1,70,75,"Late",15.6085714285714
+"772",677,2.68,"Clear","Low","Morning","Bike",16,8,25,41,"Not late",6.432
+"773",318,3.88,"Snowy","Low","Morning","Bike",9,6,33,42,"Not late",7.05454545454545
+"774",649,15.89,"Snowy","Medium","Afternoon","Car",15,9,91,106,"Late",10.4769230769231
+"775",411,6.73,"Clear","Medium","Afternoon","Bike",21,1,54,75,"Not late",7.47777777777778
+"776",899,0.75,"Clear","Medium","Afternoon","Bike",10,5,16,26,"Not late",2.8125
+"777",710,13.79,"Rainy","Low","Night","Scooter",11,0,69,80,"Late",11.9913043478261
+"778",359,18.83,"Clear","Medium","Evening","Scooter",5,8,69,74,"Late",16.3739130434783
+"779",259,11.62,"Clear","Low","Afternoon","Bike",9,8,33,42,"Not late",21.1272727272727
+"780",745,5.03,"Clear","Medium","Morning","Bike",17,4.57938144329897,38,55,"Not late",7.9421052631579
+"781",628,15.08,"Rainy","Medium","Evening","Scooter",26,1,94,120,"Late",9.62553191489362
+"782",633,10.48,"Rainy","Low","Afternoon","Car",10,7,45,55,"Not late",13.9733333333333
+"783",283,7.82,"Rainy","Medium","Evening","Bike",16,8,45,61,"Not late",10.4266666666667
+"785",385,14.83,"Rainy","Low","Morning","Car",19,4,126,145,"Late",7.06190476190476
+"786",225,5.67,"Clear","Low","Morning","Scooter",11,9,27,38,"Not late",12.6
+"787",954,18.33,"Snowy","Medium","Morning","Scooter",5,5,67,72,"Late",16.4149253731343
+"788",815,17.46,"Clear","Medium","Morning","Scooter",6,4.57938144329897,62,68,"Late",16.8967741935484
+"789",473,1.34,"Foggy","High","Evening","Bike",9,5,30,39,"Not late",2.68
+"790",348,1.38,"Clear","Low","Morning","Scooter",13,9,17,30,"Not late",4.87058823529412
+"792",640,7.86,"Windy","Medium","Morning","Car",22,2,55,77,"Not late",8.57454545454546
+"793",988,8.98,"Clear","Medium","Afternoon","Scooter",22,8,105,127,"Late",5.13142857142857
+"794",929,12.85,"Rainy","Medium","Evening","Scooter",6,7,61,67,"Late",12.6393442622951
+"795",906,17.91,"Clear","Low","Afternoon","Bike",6,7,68,74,"Late",15.8029411764706
+"796",620,15.09,"Snowy","Low","Morning","Car",20,7,68,88,"Late",13.3147058823529
+"797",856,4.22,"Clear","Medium","Morning","Bike",16,7,35,51,"Not late",7.23428571428571
+"798",804,12.33,"Clear","High","Night","Bike",7,2,101,108,"Late",7.32475247524753
+"799",646,17.87,"Snowy","Low","Morning","Scooter",29,4,87,116,"Late",12.3241379310345
+"800",847,2.16,"Clear","Medium","Night","Car",10,1,23,33,"Not late",5.63478260869565
+"801",557,3.11,"Rainy","Medium","Morning","Scooter",21,1,43,64,"Not late",4.33953488372093
+"802",958,1.42,"Clear","High","Afternoon","Scooter",24,2,40,64,"Not late",2.13
+"803",578,18.57,"Rainy","Medium","Afternoon","Bike",16,7,89,105,"Late",12.5191011235955
+"804",796,17.51,"Clear","Medium","Evening","Bike",15,3,60,75,"Late",17.51
+"805",86,6.84,"Clear","Medium","Evening","Bike",25,1,51,76,"Not late",8.04705882352941
+"806",243,18.34,"Snowy","Medium","Afternoon","Scooter",22,4.57938144329897,91,113,"Late",12.0923076923077
+"807",699,3.51,"Windy","Medium","Night","Bike",22,2,44,66,"Not late",4.78636363636364
+"808",160,14.7,"Clear","Medium","Morning","Scooter",6,2,58,64,"Late",15.2068965517241
+"809",525,16.85,"Clear","High","Morning","Car",17,4,71,88,"Late",14.2394366197183
+"810",36,16.26,"Rainy","Low","Morning","Car",27,5,66,93,"Late",14.7818181818182
+"811",541,19.1,"Snowy","Medium","Morning","Bike",25,6,90,115,"Late",12.7333333333333
+"812",171,13.71,"Rainy","Medium","Evening","Bike",22,9,64,86,"Late",12.853125
+"814",891,14.58,"Clear","Low","Evening","Bike",23,0,70,93,"Late",12.4971428571429
+"815",858,9.71,"Clear","Low","Afternoon","Car",27,5,61,88,"Late",9.55081967213115
+"816",848,19.94,"Clear","Low","Afternoon","Bike",26,6,83,109,"Late",14.4144578313253
+"817",945,4.53,"Snowy","Medium","Morning","Scooter",18,4,49,67,"Not late",5.5469387755102
+"818",734,10.7,"Clear","High","Afternoon","Car",8,4,57,65,"Late",11.2631578947368
+"819",96,10.13,"Clear","Medium","Evening","Bike",22,0,65,87,"Late",9.35076923076923
+"820",564,0.78,"Clear","Low","Afternoon","Bike",11,0,18,29,"Not late",2.6
+"821",241,18.84,"Foggy","Medium","Afternoon","Scooter",25,8,88,113,"Late",12.8454545454545
+"822",743,15.08,"Snowy","Low","Evening","Bike",29,7,84,113,"Late",10.7714285714286
+"823",575,17.32,"Clear","Low","Evening","Scooter",10,3,77,87,"Late",13.4961038961039
+"824",691,6.81,"Clear","Medium","Evening","Bike",23,2,47,70,"Not late",8.6936170212766
+"825",461,2.79,"Clear","High","Morning","Bike",23,7,38,61,"Not late",4.40526315789474
+"826",554,11.44,"Foggy","High","Afternoon","Car",14,4,74,88,"Late",9.27567567567568
+"827",889,2.44,"Snowy","High","Evening","Bike",13,9,39,52,"Not late",3.75384615384615
+"828",207,2.48,"Rainy","Low","Evening","Scooter",20,8,30,50,"Not late",4.96
+"830",795,0.85,"Clear","Medium","Morning","Bike",9,8,17,26,"Not late",3
+"831",398,8.87,"Clear","Low","Evening","Bike",19,3,55,74,"Not late",9.67636363636364
+"832",767,15.37,"Snowy","Medium","Afternoon","Car",15,5,66,81,"Late",13.9727272727273
+"833",849,10.29,"Foggy","Medium","Evening","Scooter",25,4,67,92,"Late",9.21492537313433
+"834",218,15.06,"Rainy","Low","Morning","Bike",22,4,65,87,"Late",13.9015384615385
+"836",769,7.17,"Clear","Medium","Morning","Scooter",7,9,29,36,"Not late",14.8344827586207
+"837",643,4.62,"Rainy","Medium","Afternoon","Car",8,3,33,41,"Not late",8.4
+"838",930,5.53,"Clear","Low","Morning","Car",10,8,27,37,"Not late",12.2888888888889
+"839",613,12.74,"Rainy","Low","Afternoon","Bike",17,9,63,80,"Late",12.1333333333333
+"840",739,9.06,"Clear","High","Evening","Bike",26,3,61,87,"Late",8.91147540983607
+"841",547,2.71,"Foggy","Low","Morning","Bike",6,0,28,34,"Not late",5.80714285714286
+"842",726,16.92,"Clear","Low","Night","Bike",23,5,78,101,"Late",13.0153846153846
+"843",684,13.54,"Foggy","Low","Morning","Bike",11,1,54,65,"Not late",15.0444444444444
+"844",99,1,"Snowy","Medium","Morning","Bike",25,4,44,69,"Not late",1.36363636363636
+"845",805,8.77,"Clear","Medium","Morning","Car",12,2,42,54,"Not late",12.5285714285714
+"846",728,16.01,"Windy","Low","Morning","Car",28,0,84,112,"Late",11.4357142857143
+"847",574,12.63,"Foggy","Medium","Night","Scooter",8,8,49,57,"Not late",15.465306122449
+"848",407,8.09,"Foggy","Low","Evening","Car",22,2,56,78,"Not late",8.66785714285714
+"849",503,6.54,"Clear","Medium","Night","Bike",10,7,39,49,"Not late",10.0615384615385
+"850",48,10.64,"Clear","Medium","Afternoon","Scooter",14,5,45,59,"Not late",14.1866666666667
+"851",33,1.77,"Clear","Medium","Evening","Bike",14,9,22,36,"Not late",4.82727272727273
+"852",780,13,"Foggy","Low","Evening","Bike",25,7,77,102,"Late",10.1298701298701
+"853",840,12.83,"Clear","Low","Evening","Bike",5,8,50,55,"Not late",15.396
+"854",201,13.02,"Snowy","High","Afternoon","Car",6,9,65,71,"Late",12.0184615384615
+"855",135,18.89,"Rainy","Medium","Morning","Scooter",22,1,74,96,"Late",15.3162162162162
+"856",28,10.53,"Foggy","High","Evening","Bike",25,8,72,97,"Late",8.775
+"857",881,5.01,"Rainy","Low","Afternoon","Bike",10,5,31,41,"Not late",9.69677419354839
+"858",231,16,"Foggy","Medium","Afternoon","Scooter",13,3,65,78,"Late",14.7692307692308
+"859",490,17.86,"Clear","Low","Afternoon","Scooter",16,8,83,99,"Late",12.910843373494
+"860",773,2.99,"Foggy","High","Afternoon","Bike",9,5,90,99,"Late",1.99333333333333
+"861",379,16.38,"Clear","Medium","Morning","Bike",6,2,51,57,"Not late",19.2705882352941
+"862",289,6.09,"Clear","Medium","Night","Bike",7,4,27,34,"Not late",13.5333333333333
+"863",419,13.61,"Clear","Low","Morning","Bike",26,0,66,92,"Late",12.3727272727273
+"864",675,8.5,"Snowy","High","Evening","Bike",14,7,56,70,"Not late",9.10714285714286
+"865",392,8.55,"Clear","Low","Evening","Scooter",28,8,46,74,"Not late",11.1521739130435
+"866",593,4.05,"Clear","Medium","Afternoon","Scooter",21,5,39,60,"Not late",6.23076923076923
+"867",499,19.5,"Clear","High","Morning","Bike",18,2,73,91,"Late",16.027397260274
+"869",63,16.66,"Snowy","High","Afternoon","Scooter",29,7,95,124,"Late",10.5221052631579
+"870",472,19.41,"Snowy","High","Evening","Car",21,3,100,121,"Late",11.646
+"871",648,13.74,"Foggy","Medium","Afternoon","Bike",6,1,56,62,"Not late",14.7214285714286
+"872",129,0.64,"Clear","High","Night","Bike",10,3,24,34,"Not late",1.6
+"873",977,12.1,"Clear","High","Afternoon","Bike",11,0,53,64,"Not late",13.6981132075472
+"874",521,12.09,"Clear","Medium","Morning","Car",13,1,60,73,"Late",12.09
+"875",839,11.82,"Windy","Medium","Night","Bike",24,7,77,101,"Late",9.21038961038961
+"876",963,5.28,"Foggy","Low","Morning","Bike",27,6,53,80,"Not late",5.97735849056604
+"877",65,5.98,"Clear","Low","Evening","Car",22,9,35,57,"Not late",10.2514285714286
+"878",813,2.93,"Clear","Medium","Morning","Bike",24,8,94,118,"Late",1.87021276595745
+"879",15,4.05,"Snowy","Medium","Evening","Scooter",19,2,50,69,"Not late",4.86
+"882",493,5.91,"Clear","Medium","Evening","Scooter",29,4,57,86,"Late",6.22105263157895
+"883",380,6,"Rainy","Medium","Evening","Scooter",21,2,47,68,"Not late",7.65957446808511
+"884",188,11.33,"Clear","Medium","Afternoon","Scooter",29,7,77,106,"Late",8.82857142857143
+"885",764,15.01,"Clear","Medium","Morning","Bike",15,6,64,79,"Late",14.071875
+"886",217,6.85,"Clear","High","Morning","Bike",16,5,48,64,"Not late",8.5625
+"887",792,11.93,"Snowy","High","Morning","Car",7,1,75,82,"Late",9.544
+"888",53,18.82,"Windy","Low","Morning","Car",5,3,77,82,"Late",14.6649350649351
+"889",879,1.03,"Clear","Medium","Afternoon","Bike",19,4,29,48,"Not late",2.13103448275862
+"892",720,14.75,"Clear","Low","Morning","Car",10,7,62,72,"Late",14.2741935483871
+"893",725,11.7,"Rainy","Low","Afternoon","Bike",17,5,60,77,"Late",11.7
+"894",296,10.68,"Clear","Low","Morning","Bike",14,1,42,56,"Not late",15.2571428571429
+"895",702,1.51,"Clear","High","Evening","Bike",26,1,44,70,"Not late",2.05909090909091
+"896",252,8.01,"Clear","High","Morning","Bike",8,6,48,56,"Not late",10.0125
+"897",727,3.23,"Rainy","Low","Morning","Car",25,7,42,67,"Not late",4.61428571428571
+"898",462,13.16,"Rainy","High","Morning","Scooter",25,8,68,93,"Late",11.6117647058824
+"899",456,10.11,"Windy","Low","Morning","Bike",11,4,44,55,"Not late",13.7863636363636
+"900",997,18.39,"Windy","Low","Afternoon","Bike",24,6,74,98,"Late",14.9108108108108
+"901",816,10.62,"Windy","Medium","Afternoon","Car",22,5,54,76,"Not late",11.8
+"903",270,6.23,"Clear","Medium","Evening","Car",20,1,51,71,"Not late",7.32941176470588
+"904",202,2.14,"Clear","Low","Afternoon","Bike",25,1,36,61,"Not late",3.56666666666667
+"905",162,12.83,"Clear","Medium","Morning","Bike",19,2,76,95,"Late",10.1289473684211
+"906",556,8.37,"Clear","High","Evening","Scooter",13,7,42,55,"Not late",11.9571428571429
+"907",730,3.69,"Rainy","Medium","Afternoon","Bike",8,8,27,35,"Not late",8.2
+"908",402,18.1,"Clear","Low","Morning","Scooter",8,5,77,85,"Late",14.1038961038961
+"909",703,7.06,"Clear","Low","Afternoon","Scooter",26,5,51,77,"Not late",8.30588235294118
+"910",477,1.94,"Foggy","Low","Night","Bike",10,1,25,35,"Not late",4.656
+"911",822,0.59,"Clear","Low","Afternoon","Bike",21,0,27,48,"Not late",1.31111111111111
+"912",772,17.01,"Snowy","Low","Night","Bike",28,6,97,125,"Late",10.5216494845361
+"913",106,5.36,"Clear","Low","Afternoon","Scooter",11,4,30,41,"Not late",10.72
+"914",566,12,"Clear","Low","Evening","Car",25,0,75,100,"Late",9.6
+"915",390,16.23,"Clear","Medium","Evening","Bike",6,0,54,60,"Not late",18.0333333333333
+"916",2,19.04,"Rainy","Low","Evening","Car",12,6,60,72,"Late",19.04
+"917",938,18.33,"Foggy","Medium","Morning","Scooter",19,0,98,117,"Late",11.2224489795918
+"918",983,2.58,"Clear","Medium","Morning","Scooter",25,7,37,62,"Not late",4.18378378378378
+"919",562,4.65,"Clear","Medium","Evening","Bike",21,1,46,67,"Not late",6.06521739130435
+"920",81,17.33,"Snowy","Low","Evening","Scooter",12,3,79,91,"Late",13.1620253164557
+"921",206,0.68,"Snowy","High","Evening","Bike",29,8,50,79,"Not late",0.816
+"922",35,19.33,"Clear","Medium","Morning","Bike",7,8,73,80,"Late",15.8876712328767
+"923",776,3.42,"Clear","Medium","Night","Car",11,9,24,35,"Not late",8.55
+"924",509,19.02,"Rainy","High","Evening","Scooter",22,1,106,128,"Late",10.7660377358491
+"925",428,17.81,"Windy","High","Evening","Bike",21,4,122,143,"Late",8.75901639344262
+"926",455,2.67,"Clear","Medium","Night","Car",17,6,28,45,"Not late",5.72142857142857
+"930",898,17.98,"Clear","Low","Evening","Bike",5,8,45,50,"Not late",23.9733333333333
+"931",565,7.34,"Foggy","Medium","Afternoon","Bike",22,5,93,115,"Late",4.73548387096774
+"932",346,12.51,"Clear","Medium","Evening","Bike",18,5,62,80,"Late",12.1064516129032
+"933",777,4.97,"Rainy","Low","Evening","Bike",17,9,34,51,"Not late",8.77058823529412
+"934",242,19.1,"Snowy","Low","Afternoon","Bike",18,1,101,119,"Late",11.3465346534653
+"935",14,4.64,"Clear","Low","Afternoon","Bike",15,9,24,39,"Not late",11.6
+"936",316,14.07,"Rainy","Low","Evening","Bike",10,5,63,73,"Late",13.4
+"937",601,3.79,"Clear","Medium","Morning","Bike",13,2,34,47,"Not late",6.68823529411765
+"938",388,3.96,"Clear","Medium","Afternoon","Bike",23,4.57938144329897,44,67,"Not late",5.4
+"939",274,18.31,"Clear","Medium","Afternoon","Bike",25,3,79,104,"Late",13.9063291139241
+"940",167,6.76,"Foggy","Medium","Night","Bike",7,6,42,49,"Not late",9.65714285714286
+"941",841,0.76,"Clear","Low","Afternoon","Car",26,9,28,54,"Not late",1.62857142857143
+"942",993,5.81,"Rainy","Medium","Evening","Bike",14,8,41,55,"Not late",8.50243902439024
+"943",647,12.08,"Clear","High","Afternoon","Scooter",16,4,60,76,"Late",12.08
+"944",819,1.57,"Rainy","Low","Evening","Car",16,1,30,46,"Not late",3.14
+"945",485,11.89,"Clear","Medium","Afternoon","Bike",28,0,79,107,"Late",9.03037974683544
+"946",981,7.02,"Clear","Medium","Evening","Car",23,2,53,76,"Not late",7.94716981132075
+"947",505,13.85,"Clear","Low","Evening","Bike",29,5,71,100,"Late",11.7042253521127
+"948",832,9.32,"Rainy","Medium","Evening","Scooter",24,2,71,95,"Late",7.87605633802817
+"949",244,7.72,"Foggy","High","Evening","Bike",19,4,64,83,"Late",7.2375
+"950",567,8.15,"Rainy","Low","Afternoon","Bike",26,2,50,76,"Not late",9.78
+"951",876,3.54,"Rainy","Medium","Afternoon","Scooter",17,4,41,58,"Not late",5.18048780487805
+"952",563,3.16,"Snowy","Low","Morning","Car",9,4.57938144329897,27,36,"Not late",7.02222222222222
+"953",687,11.65,"Windy","Low","Night","Bike",10,3,53,63,"Not late",13.188679245283
+"955",783,5.41,"Clear","High","Morning","Scooter",17,6,38,55,"Not late",8.54210526315789
+"956",700,9.88,"Rainy","Medium","Morning","Car",7,0,43,50,"Not late",13.7860465116279
+"957",476,19.86,"Rainy","High","Evening","Bike",12,8,71,83,"Late",16.7830985915493
+"958",682,5.53,"Windy","High","Morning","Bike",23,4,59,82,"Late",5.62372881355932
+"959",511,12.46,"Foggy","Low","Afternoon","Bike",10,1,62,72,"Late",12.058064516129
+"960",59,1.38,"Clear","Medium","Morning","Car",6,3,17,23,"Not late",4.87058823529412
+"961",475,10.79,"Clear","Medium","Evening","Scooter",24,1,65,89,"Late",9.96
+"962",561,14.23,"Clear","Medium","Afternoon","Scooter",23,7,70,93,"Late",12.1971428571429
+"963",857,1.21,"Snowy","Low","Afternoon","Bike",22,1,39,61,"Not late",1.86153846153846
+"964",748,11.1,"Clear","Low","Afternoon","Bike",18,7,56,74,"Not late",11.8928571428571
+"965",253,17.1,"Clear","Medium","Evening","Bike",25,5,65,90,"Late",15.7846153846154
+"966",22,3.22,"Clear","Medium","Afternoon","Bike",19,9,32,51,"Not late",6.0375
+"967",314,19.27,"Foggy","Medium","Morning","Car",29,9,85,114,"Late",13.6023529411765
+"968",460,2.82,"Rainy","Medium","Evening","Scooter",10,1,29,39,"Not late",5.83448275862069
+"969",161,7.67,"Foggy","Medium","Afternoon","Scooter",22,8,59,81,"Late",7.8
+"970",277,16.07,"Clear","Medium","Evening","Bike",16,5,64,80,"Late",15.065625
+"971",956,7.97,"Windy","Medium","Evening","Scooter",9,8,35,44,"Not late",13.6628571428571
+"972",192,18,"Rainy","High","Night","Car",22,4.57938144329897,98,120,"Late",11.0204081632653
+"973",386,16.17,"Clear","Medium","Evening","Scooter",12,2,78,90,"Late",12.4384615384615
+"976",492,12.59,"Clear","Low","Evening","Scooter",10,2,39,49,"Not late",19.3692307692308
+"978",770,16.51,"Clear","Medium","Morning","Bike",7,1,79,86,"Late",12.5392405063291
+"979",309,16.01,"Clear","Low","Afternoon","Car",12,4,72,84,"Late",13.3416666666667
+"980",662,19.74,"Rainy","High","Afternoon","Scooter",11,7,81,92,"Late",14.6222222222222
+"981",131,8.64,"Snowy","Low","Evening","Bike",29,4,62,91,"Late",8.36129032258065
+"982",664,5.13,"Clear","Medium","Morning","Car",16,1,38,54,"Not late",8.1
+"983",872,5.78,"Clear","High","Morning","Bike",11,5,38,49,"Not late",9.12631578947368
+"984",100,2.6,"Clear","Low","Afternoon","Bike",16,1,29,45,"Not late",5.37931034482759
+"985",373,2.34,"Foggy","Medium","Morning","Bike",8,2,28,36,"Not late",5.01428571428571
+"986",88,12.93,"Clear","Medium","Morning","Scooter",20,8,58,78,"Late",13.3758620689655
+"987",459,1.6,"Clear","Medium","Evening","Bike",14,8,24,38,"Not late",4
+"988",331,7.44,"Rainy","Low","Evening","Bike",27,4.57938144329897,53,80,"Not late",8.42264150943396
+"989",215,14.39,"Rainy","Medium","Morning","Scooter",6,4.57938144329897,50,56,"Not late",17.268
+"991",122,17.97,"Windy","Medium","Morning","Scooter",28,7,92,120,"Late",11.7195652173913
+"992",615,17.53,"Clear","Low","Afternoon","Bike",14,6,79,93,"Late",13.3139240506329
+"993",21,12.43,"Rainy","High","Morning","Bike",13,6,70,83,"Late",10.6542857142857
+"994",701,10.89,"Windy","Medium","Evening","Bike",7,0,58,65,"Late",11.2655172413793
+"995",72,4.37,"Clear","Medium","Evening","Scooter",6,7,25,31,"Not late",10.488
+"996",107,8.5,"Clear","High","Evening","Car",13,3,54,67,"Not late",9.44444444444444
+"997",271,16.28,"Rainy","Low","Morning","Scooter",8,9,71,79,"Late",13.7577464788732
+"998",861,15.62,"Snowy","High","Evening","Scooter",26,2,81,107,"Late",11.5703703703704
+"999",436,14.17,"Clear","Low","Afternoon","Bike",8,0,55,63,"Not late",15.4581818181818
+"1000",103,6.63,"Foggy","Low","Night","Scooter",24,3,58,82,"Late",6.85862068965517
