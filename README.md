@@ -3,7 +3,16 @@
 ### 📊 Project Overview
 This project presents a comprehensive analysis of a real-world dataset containing **912 delivery orders**, aimed at identifying the root causes of delivery delays. By leveraging advanced data science techniques, the project provides actionable, data-driven insights to optimize service efficiency, enhance customer satisfaction, and streamline operations.
 
-The study encompasses the entire Data Science lifecycle, from data preprocessing and exploratory data analysis (EDA) to predictive modeling using **Decision Trees** and customer segmentation via **K-Means Clustering**, culminating in the deployment of an interactive **Shiny Web Application** for real-time decision support.
+The study encompasses the entire Data Science lifecycle, culminating in the deployment of an interactive **Shiny Web Application** for real-time decision support.
+
+---
+
+### 📱 The Interactive Dashboard (Shiny App)
+We developed a user-friendly GUI to allow stakeholders to upload data, visualize insights, and run models instantly. The dashboard provides a clear preview of the dataset and allows for dynamic interaction.
+
+<div align="center">
+  <img src="assets/pic1.png" width="850" alt="Shiny App Dashboard & Data Preview">
+</div>
 
 ---
 
@@ -12,33 +21,26 @@ This project was collaboratively developed by my team and me as a capstone unive
 
 ---
 
-### 🛠️ Technical Methodology
+### 🛠️ Technical Methodology & Visuals
 
-#### 1. Data Preprocessing & Feature Engineering
-Rigorous data cleaning was performed to ensure high data quality:
-* **Handling Missing Data:** Imputation strategies were applied to handle null values.
-* **Outlier Detection:** Statistical methods were used to identify and treat anomalies.
-* **Feature Engineering:** New derived metrics such as `Delivery_Speed` and `Late_Order_Flag` were created to enhance model performance.
+#### 1. Machine Learning: Decision Tree Model
+We developed a classification model to predict the likelihood of late deliveries.
+* **Performance:** Achieved an accuracy of **86.35%** on the test set.
+* **Key Insight:** The model identified `Distance` and `Restaurant Preparation Time` as the most significant predictors of delay.
 
-#### 2. Exploratory Data Analysis (EDA)
-In-depth visualization using `ggplot2` to uncover hidden patterns:
-* **Correlation Analysis:** Investigated the relationship between `Distance_km` and `Delivery_Time_min`.
-* **Operational Factors:** Analyzed the impact of **Traffic Levels**, **Weather Conditions**, and **Vehicle Types** on delivery performance.
+<div align="center">
+  <img src="assets/pic6.png" width="850" alt="Decision Tree Model & Confusion Matrix">
+</div>
 
-#### 3. Machine Learning Implementation
-* **Predictive Modeling (Decision Tree):**
-    * Developed a classification model to predict the likelihood of late deliveries.
-    * **Performance:** Achieved an accuracy of **86.35%** on the test set.
-    * **Key Insight:** The model identified `Distance` and `Restaurant Preparation Time` as the most significant predictors of delay.
-* **Clustering Analysis (K-Means):**
-    * Segmented orders into **4 distinct clusters** based on delivery characteristics.
-    * **Outcome:** Identified high-risk segments (Long distance/Slow prep) vs. high-efficiency segments to guide resource allocation.
+#### 2. Customer Segmentation (K-Means Clustering)
+We segmented orders into **3 distinct clusters** based on delivery characteristics to identify different service patterns.
+* **Cluster 1:** Long distance, slow deliveries (High Risk).
+* **Cluster 2:** Short distance, average speed.
+* **Cluster 3:** Efficient deliveries.
 
-#### 4. Interactive Dashboard (Shiny App) 📱
-A user-friendly web interface was developed to democratize access to insights:
-* **Dynamic Data Upload:** Supports `.csv` file integration.
-* **Real-time Visualization:** Interactive charts for instant data exploration.
-* **Model Deployment:** Allows stakeholders to run ML models on new data on-the-fly.
+<div align="center">
+  <img src="assets/pic7.png" width="850" alt="K-Means Clustering Analysis">
+</div>
 
 ---
 
