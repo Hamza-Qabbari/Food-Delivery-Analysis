@@ -7,8 +7,8 @@ The study encompasses the entire Data Science lifecycle, from data preprocessing
 
 ---
 
-### 🤝 Development Team
-This project was collaboratively developed by the **"El Cartel"** team as a capstone Data Science project. The team focused on implementing a robust analytical pipeline to solve logistical challenges in the food delivery sector.
+### 🤝 Project Context & Team
+This project was collaboratively developed by **my team and me** as a capstone university project for the **Data Science** course. Our primary focus was to implement a robust analytical pipeline to solve logistical challenges in the food delivery sector, applying theoretical concepts to a real-world business problem.
 
 ---
 
